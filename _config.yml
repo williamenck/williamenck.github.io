@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: William Enckhausen
+title: William Enckhausen 
 
 # Your name to show in the footer
 author: William Enckhausen
@@ -16,8 +16,8 @@ author: William Enckhausen
 
 navbar-links:
  
-  español: "https://enckwilliam-es.blogspot.com/"
-  Author: "http://williamquetzal.github.io/william-enckhausen/"
+  español: "https://williamquetzal.github.io/es/"
+  Author: "https://williamquetzal.github.io/william-enckhausen/"
   Books:  "https://workdrive.zoho.com/folder/czu547cfecd3997ff476da1041e71b5a2a426"
   Flute: "https://williamquetzal.github.io/contemplations-on-quenacho.html"
   PDF Archives:  "https://workdrive.zohoexternal.com/folder/pleth54c25c7fb36e4390a1307f31985b4bed"
@@ -71,7 +71,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: RSS Feed
 
 # --- General options --- #
 
@@ -216,7 +216,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
