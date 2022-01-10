@@ -17,9 +17,10 @@ author: William Enckhausen
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - espanol: "williamquetzal.org"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+  espanol: "williamquetzal.org"
+  
 
 # --- Logo --- #
 
