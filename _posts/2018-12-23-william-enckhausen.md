@@ -35,4 +35,4 @@ People like Chandranath have set a practical example of how a realized yogi can 
 
 an excerpt from <a href="https://workdrive.zoho.com/file/plethe302d7e05406492c885e476efd0cad8c">Light And Dark Tantra.</a>
 
-I also used this story as the introduction to <a href="https://workdrive.zoho.com/file/pleth208ae313cbfd4c60b3481a99c908cdbe">A Name To The Nameless</a> >
+I also used this story as the introduction to <a href="https://workdrive.zoho.com/file/pleth208ae313cbfd4c60b3481a99c908cdbe">A Name To The Nameless</a> 
