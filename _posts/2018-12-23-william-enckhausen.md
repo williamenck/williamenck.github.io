@@ -1,8 +1,10 @@
 ---
 layout: post
-title: The Flight Of The Quetzal
+title: William Enckhausen 
 author: William Enckhausen
 ---
+
+### The Flight Of The Quetzal
 
 I was initiated into a Rajadhiraja Tantra Yoga tradition when I was a student in Austin in 1993.  I adopted a very healthy vegetarian lifestyle without drugs and alcohol. Within a few months the kundalini began with what would be a very long and intense awakening. As a student of psychology and world literature, I had heard of kundalini and other mystical energies but I had never thought they were real, live forces. I thought it was just interesting archaic symbolism, and not an actual force within the human body that rises up through the spinal column to awaken higher states of awareness. The universal symbol for this force is the serpent. It is said to be a covert, spiritual force beneath the surface of conscious awareness, like a coiled snake. Kundalini is the fundamental intelligence behind life and evolution, waiting to be awakened when the mind finally desires liberation from finite mental bondages. As this divine “serpent power” rises through the spinal column, one experiences states of deep spiritual realization. For the yogi, kundalini is the force that unites the human with the divine.
 
@@ -33,4 +35,4 @@ People like Chandranath have set a practical example of how a realized yogi can 
 
 an excerpt from <a href="https://workdrive.zoho.com/file/plethe302d7e05406492c885e476efd0cad8c">Light And Dark Tantra.</a>
 
-I also used this story as the introduction to <a href="https://workdrive.zoho.com/file/pleth208ae313cbfd4c60b3481a99c908cdbe">A Name To The Nameless</a>>
+I also used this story as the introduction to <a href="https://workdrive.zoho.com/file/pleth208ae313cbfd4c60b3481a99c908cdbe">A Name To The Nameless</a> >
