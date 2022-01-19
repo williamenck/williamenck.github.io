@@ -14,7 +14,7 @@ After that experience I became very confident but experienced a lot of mental tu
 
 My last thought before losing awareness of not just the outer world, but also the inner world of vision, was that the forms looked Meso-American. Only years later would I learn of the Mesoamerican concept of kundalini, what they call Quetzalcoatl, the “Plumed Serpent.” The quetzal is a colorful bird of Chiapas and the mayan symbol for the kundalini, the spiritual energy of evolution and enlightenment that resides dormant within the mind.
 
-![quetzal](https://lh3.googleusercontent.com/HwKe12L3RkBGJlOHlznL1_ZsnHetm8fVKWf0w-aqoRe5-k46sJBeds3Cd8DYWq9vLtHMdOn7mska1z_zZcAPhyDYRFhgVF7EWSf4UTwVaHTnmqTNYKWM0v2O1gXOHbFlq0SU2cvg=w1920-h1080 "quetzal")
+<img src="{{ 'assets/img/quetzal.jpg' | relative_url }}" alt="Not found" />
 
 (The kundalini was named Quetzalcoatl by the Toltecs and Kukulkan by the Mayas. A version of the image of Quetzalcoatl is on the Mexican national flag to this day. )
 
@@ -25,7 +25,7 @@ At the time I wanted to become a monk but Chidghananda himself told me that I wa
 
 It was soon after that I met Chandranath and his wife, Ram Pari Devii. They were some of the first initiates and spiritual teachers, or acharyas, personally taught by Anandamurti in the 1950’s. They were undoubtedly the most spiritually elevated beings that I have ever met. The whole environment around them was bliss. Even their lifelong employees, like the cook and the gardener, had become highly developed yogis. Speaking with Chandranath removed any doubts I had about my meditation and he told me that the intensity would calm down with time. He gave me invaluable tips about the mystical subtleties of spiritual practice and left me with the deepest sensation of divine peace that I still feel each time I recall being in his presence. Both he and his wife were established in the practice of samadhi (experiential union with the Supreme Consciousness) and could enter into it at will. They were free, realized souls whose only reason to still be physically incarnated was to help others along the path. After meeting them I realized that more important than being a monk or householder was to simply try to be at one with the Supreme Consciousness at all times, as they were.
 
-![Alt text](https://lh3.googleusercontent.com/E49ro55sY80Yq89L99nS8aHlz9Z3IQwh8oD89yxsBUyZyJWjVz_1mhAdgAYroIHnL3nce77cbEddYz5v03Ig2xR0tR3CmJxkIZmhLcpuS1s358iZHOQ-TQsXXQmC8PFlhMdge2zN=w1920-h1080 "chandranath")
+<img src="{{ 'assets/img/chandranath.jpg' | relative_url }}" alt="Not found" />
 
 When I sat next to Chandranath and tried to listen to him speak of the Supreme Consciousness I could not understand a word he said. He took me into himself and there was only silence and a soft. white glow. I still try to recall that experience and become so still, forget even breathing, and there is still only silence and a soft, white glow.
 
