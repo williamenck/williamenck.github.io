@@ -16,7 +16,7 @@ After that experience I became very confident but experienced a lot of mental tu
 
 My last thought before losing awareness of not just the outer world, but also the inner world of vision, was that the forms looked Meso-American. Only years later would I learn of the Mesoamerican concept of kundalini, what they call Quetzalcoatl, the “Plumed Serpent.” The quetzal is a colorful bird of Chiapas and the mayan symbol for the kundalini, the spiritual energy of evolution and enlightenment that resides dormant within the mind.
 
-![Alt text](https://d1bv4heaa2n05k.cloudfront.net/user-images/1543501996711/shutterstock-549082930_main_1543502021955.jpeg "quetzal")
+![quetzal](https://lh3.googleusercontent.com/HwKe12L3RkBGJlOHlznL1_ZsnHetm8fVKWf0w-aqoRe5-k46sJBeds3Cd8DYWq9vLtHMdOn7mska1z_zZcAPhyDYRFhgVF7EWSf4UTwVaHTnmqTNYKWM0v2O1gXOHbFlq0SU2cvg=w1920-h1080 "quetzal")
 
 (The kundalini was named Quetzalcoatl by the Toltecs and Kukulkan by the Mayas. A version of the image of Quetzalcoatl is on the Mexican national flag to this day. )
 
@@ -27,7 +27,7 @@ At the time I wanted to become a monk but Chidghananda himself told me that I wa
 
 It was soon after that I met Chandranath and his wife, Ram Pari Devii. They were some of the first initiates and spiritual teachers, or acharyas, personally taught by Anandamurti in the 1950’s. They were undoubtedly the most spiritually elevated beings that I have ever met. The whole environment around them was bliss. Even their lifelong employees, like the cook and the gardener, had become highly developed yogis. Speaking with Chandranath removed any doubts I had about my meditation and he told me that the intensity would calm down with time. He gave me invaluable tips about the mystical subtleties of spiritual practice and left me with the deepest sensation of divine peace that I still feel each time I recall being in his presence. Both he and his wife were established in the practice of samadhi (experiential union with the Supreme Consciousness) and could enter into it at will. They were free, realized souls whose only reason to still be physically incarnated was to help others along the path. After meeting them I realized that more important than being a monk or householder was to simply try to be at one with the Supreme Consciousness at all times, as they were.
 
-![Alt text](https://lh3.googleusercontent.com/ef2sg9AC2gGmDqMqFRzXfw56W0W8eWuOFPGn0EURX2IHyOdGExUCpFF2ETCAP3_6za7brov1l52QP39RO1bkFC5q0TEgzH8v-Okbhdcw5rTXoE6idEURfVR-zYr6sur-D2wBcIwHrK-TleFEAXuYKoF93FGsPVEyCltSDPnqR8O9jo7A8ApNXZQx_vVEFtIBqR2ALYyPlbUx6lWBWU6riNQ1CXrmq7HnWGhmWG5F34W70HjEZrrMwLkujwFV8mLUcAK-45O2-fm2TwS7bZNr3JuKjIdn1337nJAZHqZ5UoFGlsQI3yAp2szraiWYOMrjT0gA5enI87oDwicFb5irtbWcnEnB_ZITaReRcjQAx3LD-CXhscGTfwJaEJrO2xYiD5j_yi3jV9hGrXr3bhp6NKHBX_92R6GUwzoIYDBon1WYXNcAao50MG_XAhD2aV6Um0UEBXkBkGBMje5bC0TTBOyRm0rnWiMzABpK87KbgeYjDR-XW5qgq79aQTHykIEH6pW8PoRF5z6goGKnehGE4frMW3J2p_aQPI9CYd3bni8j39Ozunk4hzG69KbclF3iNv6OyBFe4pGb8xH_mYbzcpUr2pKpBGRVA1dOK2A4Yi2C8Sc4U9GJOecl3j5HFy2M4T15_fQAtMkXsdMysqy4mEdVu-KgopvmYE_Q-n2QS3U1xCfGNSGynmR6h7LD4pPBKX3oS83LKudrZTns=w975-h662-no?authuser=0 "quetzal")
+![Alt text](https://lh3.googleusercontent.com/E49ro55sY80Yq89L99nS8aHlz9Z3IQwh8oD89yxsBUyZyJWjVz_1mhAdgAYroIHnL3nce77cbEddYz5v03Ig2xR0tR3CmJxkIZmhLcpuS1s358iZHOQ-TQsXXQmC8PFlhMdge2zN=w1920-h1080 "chandranath")
 
 When I sat next to Chandranath and tried to listen to him speak of the Supreme Consciousness I could not understand a word he said. He took me into himself and there was only silence and a soft. white glow. I still try to recall that experience and become so still, forget even breathing, and there is still only silence and a soft, white glow.
 
@@ -35,4 +35,4 @@ People like Chandranath have set a practical example of how a realized yogi can 
 
 an excerpt from <a href="https://workdrive.zoho.com/file/plethe302d7e05406492c885e476efd0cad8c">Light And Dark Tantra.</a>
 
-I also used this story as the introduction to <a href="https://workdrive.zoho.com/file/pleth208ae313cbfd4c60b3481a99c908cdbe">A Name To The Nameless</a> 
+I also used this story as the introduction to <a href="https://workdrive.zoho.com/file/pleth208ae313cbfd4c60b3481a99c908cdbe">A Name To The Nameless</a>
