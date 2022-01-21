@@ -16,7 +16,7 @@ After that experience I became very confident but experienced a lot of mental tu
 
 My last thought before losing awareness of not just the outer world, but also the inner world of vision, was that the forms looked Meso-American. Only years later would I learn of the Mesoamerican concept of kundalini, what they call Quetzalcoatl, the “Plumed Serpent.” The quetzal is a colorful bird of Chiapas and the mayan symbol for the kundalini, the spiritual energy of evolution and enlightenment that resides dormant within the mind.
 
-<img src="{{ 'assets/img/quetzal.jpeg' | relative_url }}" alt="Not found" />
+<img src="{{ 'assets/img/quetzal.jpg' | relative_url }}" alt="Not found" />
 
 (The kundalini was named Quetzalcoatl by the Toltecs and Kukulkan by the Mayas. A version of the image of Quetzalcoatl is on the Mexican national flag to this day. )
 
