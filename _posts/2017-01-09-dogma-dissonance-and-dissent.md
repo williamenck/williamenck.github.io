@@ -2,7 +2,7 @@
 layout: post
 title: Dogma, Dissonance, And Dissent
 ---
-<img src="{{ 'assets/img/napalmgirl.jpeg' | relative_url }}" alt="Not found" />
+<img src="{{ 'assets/img/napalmgirl.jpg' | relative_url }}" alt="Not found" />
 
 While I was a student at The University of Texas at Austin, there was a story passing through the psychology department of how a group of drunken fraternity boys  pushed a piano through a window that fell 10 floors and killed 2 people in the street below. All of these bone-heads got together and decided they were not responsible. They collectively blamed the victims. “Why were those stupid people walking the streets at 3 am?” they argued.
 
