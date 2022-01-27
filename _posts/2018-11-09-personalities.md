@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Personalities 
+thumbnail-img: /assets/img/chidghananda.jpg
 ---
 <img src="{{ 'assets/img/chidghananda.jpg' | relative_url }}" alt="Not found" />
 

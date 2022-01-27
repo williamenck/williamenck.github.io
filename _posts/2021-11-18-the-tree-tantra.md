@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Tree Tantra
+thumbnail-img: /assets/img/ceiba.jpg
 ---
 <img src="{{ 'assets/img/ceiba.jpg' | relative_url }}" alt="Not found" />
 

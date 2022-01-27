@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Is This Evil Upon Us?  2021 Revision
+thumbnail-img: /assets/img/coffee.jpg
 ---
 <img src="{{ 'assets/img/coffee.jpg' | relative_url }}" alt="Not found" />
 

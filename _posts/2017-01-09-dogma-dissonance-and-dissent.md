@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dogma, Dissonance, And Dissent
+thumbnail-img: /assets/img/napalmgirl.jpg
 ---
 <img src="{{ 'assets/img/napalmgirl.jpg' | relative_url }}" alt="Not found" />
 

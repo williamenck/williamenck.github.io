@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Form And Formless
+thumbnail-img: /assets/img/rublev.jpg
 ---
 Form And Formless
 

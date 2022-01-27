@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Divine Cactus
+thumbnail-img: /assets/img/venados.jpg
 ---
 <img src="{{ 'assets/img/venados.jpg' | relative_url }}" alt="Not found" />
 

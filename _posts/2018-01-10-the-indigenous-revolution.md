@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Indigenous Revolution
+thumbnail-img: /assets/img/zapluna.jpg
 ---
 <img src="{{ 'assets/img/zapluna.jpg' | relative_url }}" alt="Not found" />
 

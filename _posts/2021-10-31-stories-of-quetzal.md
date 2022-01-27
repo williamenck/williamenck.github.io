@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Stories Of Quetzal
+thumbnail-img: /assets/img/tortuga.jpg
 ---
 <img src="{{ 'assets/img/quetzalcoatl.jpg' | relative_url }}" alt="Not found" />
 

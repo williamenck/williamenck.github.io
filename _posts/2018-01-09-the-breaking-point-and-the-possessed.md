@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Breaking Point And The Possessed
+thumbnail-img: /assets/img/capitol.jpg
 ---
 <img src="{{ 'assets/img/capitol.jpg' | relative_url }}" alt="Not found" />
 
