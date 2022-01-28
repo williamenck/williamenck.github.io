@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Between Two Devils
-thumbnail-img: /assets/img/merry-xmas.jpg
 ---
 
 <img src="{{ 'assets/img/merry-xmas.jpg' | relative_url }}" alt="Not found" />
