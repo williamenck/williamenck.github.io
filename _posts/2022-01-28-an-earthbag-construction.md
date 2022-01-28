@@ -23,7 +23,7 @@ These are  the first few layers of earthbag adobe bricks that are molded into re
 
 <img src="{{ 'assets/img/earth/rogelio.jpg' | relative_url }}" alt="Not found" />
 
-Don Rogelio sits atop the penultimate layer of bags. I found a friendly group of local coffee growers to help me out with the construction.   They, as well as I, have built with adobe bricks but this was the first time for us to use earthbags.  As campesinos, they are very practical and helped me refine construction techniques as we progressed.  For a more detailed example of the earthbag construction techniques watch this short video with Owen Geiger.
+Don Rogelio sits atop the penultimate layer of bags. I found a friendly group of local coffee growers to help me out with the construction.   They, as well as I, have built with adobe bricks but this was the first time for us to use earthbags.  As campesinos, they are very practical and helped me refine construction techniques as we progressed.  For a more detailed example of the earthbag construction techniques watch this [short video with Owen Geiger.](http://www.earthbagstructures.com/basics/stepbystep.htm)
 
 <img src="{{ 'assets/img/earth/bond.jpg' | relative_url }}" alt="Not found" />
 
