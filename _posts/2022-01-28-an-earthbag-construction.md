@@ -16,7 +16,7 @@ The first courses of earthbags are with filled and tamped with gravel so as to p
 
 <img src="{{ 'assets/img/earth/2rooms.jpg' | relative_url }}" alt="Not found" />
 
-Earthbag constructions are very sturdy and earthquake resistant.  With a design of continuous and interconnected hexagonal rooms all of the walls are tied together and are less likely to shift.  Also, the bags of adobe are 22 inches wide 32 inches long, which gives each bag a great overlap over lower ones.  Giant adobe earthbags can simply shift more freely and accomodate themselves during an earthquake while smaller, traditional adobes may dislocate and fall.  Also, the thick walls remain very cool and the tropical heat does not penetrate them and heat up the house.  
+Earthbag constructions are very sturdy and earthquake resistant.  With a design of continuous and interconnected hexagonal rooms all of the walls are tied together and are less likely to shift.  Also, the bags of adobe are 22 inches wide 32 inches long, which gives each bag a great overlap over lower ones.  During an earthquake giant adobe earthbags can simply accomodate themselves without falling while smaller, traditional adobes may dislocate and fall.  Also, the thick walls remain very cool and the tropical heat does not penetrate them and heat up the house.  
 
 <img src="{{ 'assets/img/earth/plaster.jpg' | relative_url }}" alt="Not found" />
 
