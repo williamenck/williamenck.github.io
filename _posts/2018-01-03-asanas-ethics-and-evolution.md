@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Asanas, Ethics And Evolution
-thumbnail-img: /assets/img/hello.jpg
 ---
 
 
