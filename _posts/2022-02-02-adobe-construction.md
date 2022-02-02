@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Earthbag Construction
+title: Adobe Construction
 author: William Enckhausen
 thumbnail-img: /assets/img/earth/arch.jpg
 ---
@@ -35,6 +35,35 @@ A concrete bond ring is one of the few steps in superadobe construction which re
 An impermeable layer of sand and lime reinforced by wire mesh gives protection and a natural, smooth finish.
 
 
+<img src="{{ 'assets/img/casa.jpg' | relative_url }}" alt="Not found" />
+
+The house is a hive pattern of 6 connected hexagonal rooms. I like this photo because one can see the rock high on the horizon which is the limit and highest point of our land. It is quite an extreme hike to reach the top. 
+
+The super adobe is free material but it is very intense work. For this reason, we are going to make the bathroom, which is an external corner between two hexagons, with a wall of bahareque, a traditional Mexican method that uses a structure of reed filled with mud or "cob."  Bahareque is very similar to the technical "wattle and daub" of medieval England.  
+
+<img src="{{ 'assets/img/wall.jpg' | relative_url }}" alt="Not found" />
+
+<img src="{{ 'assets/img/wall1.jpg' | relative_url }}" alt="Not found" />
+
+I cut more oaks from the mountain for the firm wall structure. They are anchored to a conventional concrete, gravel and rebar foundation. Between the firm oak beams we put a reed structure, which we also cut on our land. Then we are going to fill the reed structure with cob, a mixture of mud, sand, and straw.  
+    
+I saw some videos on wattle and daub and a few examples in the houses nearby. They usually use mud. I decided to use cob, adding straw to the mud with sand. It has better consistency and you can add larger balls without breaking them. Therefore, it is not only faster with cob but also stronger.  
+
+<img src="{{ 'assets/img/wall2.jpg' | relative_url }}" alt="Not found" />
+
+<img src="{{ 'assets/img/wall3.jpg' | relative_url }}" alt="Not found" />
+   
+You can see in the photo of the window how the cob is very smooth and does not really need a top coat inside the house. On the outside we will put a very thin layer with the same mixture of mud and sand, only with a little lime. The lime makes that the wall does not fall apart if it is stuck by the rain. The dry parts of the wall reveal the final color, whiter than earth without lime. In our mountain there is brown, red, yellow and purple mud and it could vary and / or mix these colors but I like the beige of the earth bleached with lime.
+
+
+
+<img src="{{ 'assets/img/earth/hexagonbottle.jpg' | relative_url }}" alt="Not found" /> <img src="{{ 'assets/img/earth/octagonbottle.jpg' | relative_url }}" alt="Not found" />
+
+We filled in some wall spaces using glass bottles.
+
+
+### Roofs And Cupolas
+
 <img src="{{ 'assets/img/earth/sunrise.jpg' | relative_url }}" alt="Not found" />
 
 Our land was almost completely untouched by human activity. Only some large pines and oaks were cut down before we arrived. This has allowed many closely growing oaks to grow upward instead of expanding. I cut down the straightest ones and will let the rest of them grow with more space to expand and become full trees. Oak is very hard and insect resistant and lasts for centuries.
@@ -43,14 +72,7 @@ Our land was almost completely untouched by human activity. Only some large pine
 
 A cupola serves to ventilate and cool the house.
 
-<img src="{{ 'assets/img/casa.jpg' | relative_url }}" alt="Not found" />
-
-The house is a hive pattern of 6 connected hexagonal rooms. I like this photo because one can see the rock high on the horizon which is the limit and highest point of our land. It is quite an extreme hike to reach the top. 
-
 <img src="{{ 'assets/img/earth/cupola2.jpg' | relative_url }}" alt="Not found" />
-
-
-
 
 The second room has a different style of cupola.
 
