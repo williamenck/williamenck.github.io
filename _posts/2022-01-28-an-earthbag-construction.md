@@ -2,6 +2,7 @@
 layout: post
 title: An Earthbag Construction
 author: William Enckhausen
+thumbnail-img: /assets/img/earth/arch.jpg
 ---
 <img src="{{ 'assets/img/earth/arch.jpg' | relative_url }}" alt="Not found" />
 
