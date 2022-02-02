@@ -2,7 +2,6 @@
 layout: post
 title: Adobe Construction
 author: William Enckhausen
-thumbnail-img: /assets/img/earth/arch.jpg
 ---
 <img src="{{ 'assets/img/earth/arch.jpg' | relative_url }}" alt="Not found" />
 
@@ -38,6 +37,8 @@ An impermeable layer of sand and lime reinforced by wire mesh gives protection a
 <img src="{{ 'assets/img/casa.jpg' | relative_url }}" alt="Not found" />
 
 The house is a hive pattern of 6 connected hexagonal rooms. I like this photo because one can see the rock high on the horizon which is the limit and highest point of our land. It is quite an extreme hike to reach the top. 
+
+### Wattle And Daub
 
 The super adobe is free material but it is very intense work. For this reason, we are going to make the bathroom, which is an external corner between two hexagons, with a wall of bahareque, a traditional Mexican method that uses a structure of reed filled with mud or "cob."  Bahareque is very similar to the technical "wattle and daub" of medieval England.  
 
