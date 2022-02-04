@@ -58,7 +58,7 @@ You can see in the photo of the window how the cob is very smooth and does not r
 
 
 
-<img src="{{ 'assets/img/earth/hexagonbottle.jpg' | relative_url }}" alt="Not found" /> <img src="{{ 'assets/img/earth/octagonbottle.jpg' | relative_url }}" alt="Not found" />
+<img src="{{ 'assets/img/earth/hojas.jpg' | relative_url }}" alt="Not found" /> <img src="{{ 'assets/img/earth/hexagonbottle.jpg' | relative_url }}" alt="Not found" /> <img src="{{ 'assets/img/earth/octagonbottle.jpg' | relative_url }}" alt="Not found" /> 
 
 We filled in some wall spaces using glass bottles.
 
