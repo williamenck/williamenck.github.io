@@ -37,7 +37,8 @@ An impermeable layer of sand and lime reinforced by wire mesh gives protection a
 <img src="{{ 'assets/img/casa.jpg' | relative_url }}" alt="Not found" />
 
 The house is a hive pattern of 6 connected hexagonal rooms. I like this photo because one can see the rock high on the horizon which is the limit and highest point of our land. It is quite an extreme hike to reach the top. 
-
+<br/><br/>
+<br/><br/>
 ### Wattle And Daub
 
 The super adobe is free material but it is very intense work. For this reason, we are going to make the bathroom, which is an external corner between two hexagons, with a wall of bahareque, a traditional Mexican method that uses a structure of reed filled with mud or "cob."  Bahareque is very similar to the technical "wattle and daub" of medieval England.  
@@ -57,12 +58,14 @@ I saw some videos on wattle and daub and a few examples in the houses nearby. Th
 You can see in the photo of the window how the cob is very smooth and does not really need a top coat inside the house. On the outside we will put a very thin layer with the same mixture of mud and sand, only with a little lime. The lime makes that the wall does not fall apart if it is stuck by the rain. The dry parts of the wall reveal the final color, whiter than earth without lime. In our mountain there is brown, red, yellow and purple mud and it could vary and / or mix these colors but I like the beige of the earth bleached with lime.
 
 
+We filled in some wall spaces using glass bottles:
+
 
 <img src="{{ 'assets/img/earth/hojas.jpg' | relative_url }}" alt="Not found" /> <img src="{{ 'assets/img/earth/hexagonbottle.jpg' | relative_url }}" alt="Not found" /> <img src="{{ 'assets/img/earth/octagonbottle.jpg' | relative_url }}" alt="Not found" /> 
 
-We filled in some wall spaces using glass bottles.
 
-
+<br/><br/>
+<br/><br/>
 ### Roofs And Cupolas
 
 <img src="{{ 'assets/img/earth/sunrise.jpg' | relative_url }}" alt="Not found" />
@@ -73,9 +76,10 @@ Our land was almost completely untouched by human activity. Only some large pine
 
 A cupola serves to ventilate and cool the house.
 
+The second room has a different style of cupola:
+
 <img src="{{ 'assets/img/earth/cupola2.jpg' | relative_url }}" alt="Not found" />
 
-The second room has a different style of cupola.
 
 <img src="{{ 'assets/img/earth/cupola3.jpg' | relative_url }}" alt="Not found" />
 
