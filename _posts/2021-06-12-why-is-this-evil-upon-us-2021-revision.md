@@ -3,9 +3,10 @@ layout: post
 title: Why Is This Evil Upon Us?  2021 Revision
 thumbnail-img: /assets/img/coffee.jpg
 ---
-<img src="{{ 'assets/img/coffee.jpg' | relative_url }}" alt="Not found" />
 
 We have started the work of planting organic coffee. A friend suggested that I should build a cabin for tourists who would like to visit an organic coffee farm. I think tourists would need something more to do in the local area than just visit a farm.  However, El Triunfo natural reserve is nearby, which has the highest cloud forest in the world. I have not been there yet but I hear that the visit requires a lot of hiking as there are no roads up to the reserve.  
+
+<img src="{{ 'assets/img/coffee.jpg' | relative_url }}" alt="Not found" />
   
 I am happy in the local community. People are friendly and there are no great dangers. There is beautiful nature everywhere and many places to hike in the mountains or swim near a waterfall.  
    
@@ -15,7 +16,7 @@ The first problem of the garbage could be easily solved. Most of the people have
   
 The second problem, the drunken issue, is much more difficult and really requires changing very fundamental aspects in the structure of society and perhaps in human nature. Although they could clean the garbage from the streets, there would still be drunks lying everywhere. They come into town after their harvest and waste so much money on alcohol.  They remain here drinking for a week or so until they run out of money.  They are not that violent when they are in town but many are violent at home. Many beat their wives and also rape members of their family or rural community. My psychiatrist friends tell me that 45 percent of Mexican women have been sexually abused. In the rural communities of Chiapas this figure rises to 60 percent. Of course most of these crimes are committed by drunk men. So, when you see one of these men lying on the street or in the bars, there is a good chance that he is a rapist.  
   
-Throughout the world alcohol is the ugliest and most common vice among humans. It makes everyone insensitive and foolish. I have friends who drink alcohol and I say the same to them. Although they are very intelligent and sensitive people, I say that the poison takes away a little of those qualities. A little poison poisons you a little and a lot of poison makes you a total degenerate.  
+Throughout the world alcohol is the ugliest and most common vice among humans. It makes everyone insensitive and foolish. I have friends who drink alcohol and I say the same to them. Although they are very intelligent and sensitive people, I say that the poison takes away a little of those qualities. A recent study I read in The Guardian reveals how <a href="https://www.theguardian.com/society/2021/may/18/any-amount-of-alcohol-consumption-harmful-to-the-brain-finds-study">any amount of alcohol consumed reduced brain gray matter density</a>.  There is no safe and harmless use of alcohol: a little poison poisons you a little and a lot of poison makes you a total degenerate.  
   
 Last year a friend sought help and confessed that he was an alcoholic to his friends on Facebook. I was so amazed at mutual friends who were so insensitive to his problem, probably because they themselves were on the verge of falling into alcoholism. "There is no problem if you have a cold beer with peace of mind." I read so many responses like that. They were so comfortable in their intellectual vanity and fine wine that they couldn't understand that some people must give up the bad habit altogether. Although their wine does not make these cultured people so insensitive to littering in the street, but it does make them insensitive and unable to see the suffering of a friend and give bad advice. I see alcoholism in all social classes and it is an addiction and a fatal disease just as much for those who like caviar as those who love their 6-packs.  
   
