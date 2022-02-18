@@ -3,7 +3,6 @@ layout: post
 title: Recreating
 ---
 
-<img src="{{ 'assets/img/chiflon.jpg' | relative_url }}" alt="Not found" />
 
 For countless lives my eyes turn toward you,
 
