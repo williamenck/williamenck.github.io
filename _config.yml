@@ -45,7 +45,7 @@ round-avatar: true
 social-network-links:
   email: "enckwilliam@protonmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: williamquetzal.org
+  facebook: williamquetzal.org
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
