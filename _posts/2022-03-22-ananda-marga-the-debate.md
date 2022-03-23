@@ -1,13 +1,6 @@
 ---
 layout: post
-title: Ananda Marga:  The Debate
-date: '2017-01-10T19:13:00.002-08:00'
-author: Anonymous
-tags: 
-modified_time: '2021-12-21T04:58:30.155-08:00'
-thumbnail: https://i.ytimg.com/vi/dVxilyDXKDs/default.jpg
-blogger_id: tag:blogger.com,1999:blog-4404772622724336711.post-5182425481443576965
-blogger_orig_url: https://www.williamquetzal.org/2017/01/the-debate.html
+title: Ananda Marga - The Debate
 ---
 
   
