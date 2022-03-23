@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Debate
+title: Ananda Marga:  The Debate
 date: '2017-01-10T19:13:00.002-08:00'
 author: Anonymous
 tags: 
