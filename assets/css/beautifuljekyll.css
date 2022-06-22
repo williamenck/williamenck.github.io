@@ -326,7 +326,7 @@ img {
 }
 
 .navbar-custom .avatar-container .avatar-img-border {
-  width: 200%;
+  width: 100%;
   margin-left: -50%;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
