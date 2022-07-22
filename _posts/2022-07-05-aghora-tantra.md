@@ -2,6 +2,8 @@
 layout: post
 title: Aghora Tantra
 ---
+This is a version of <a href="https://www.williamquetzal.org/the-quixotic-narco-slayers/">The Quixotic Narco Slayers</a> that I wrote for some old yogi friends.  During these adventures there was a parallel  drama that was occurring simultaneously.  I felt this parallel drama had too much synchronicity to seem believable if it were included in “The Quixotic Narco Slayers”, and so I include the parallel drama in the following account.
+
 A few weeks before the following adventures started I had a dream that prepared me for the experience. The guru appeared as an officer giving me orders to jump out of an airplane. I was a paratrooper and was the only soldier in the airplane with Him and I realized I had no parachute. I looked at him and saw a glimmer in his eye, so as to say that everything will be fine. I could see that there was only rocky mountains below me and that, rationally, even if I had a parachute there would be nowhere to land. It was an order and I felt joy in obeying and so I jumped. I merged with the light in the infinite sky and became as light as the immense atmosphere as I floated down in pure bliss. 
 
 The meaning of the dream became very clear a week later while I was alone in the desert base and the narco assassins had me surrounded. There is no doubt that the fearlessness and immense bliss I felt during those apparently dangerous times was due to the dream with the guru. I have had many dreams with Him over the years and every one of them was very significant and often involved what one could call "miracles." 
