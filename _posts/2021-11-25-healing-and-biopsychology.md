@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Healing through Universal Love
+title: Healing And Biopsychology
 ---
 The Sanskrit word for human love that emanates from the spiritual heart is called "mamata." I don't understand much Sanskrit but I imagine it is related to the word "mama" as the phoneme "ma" is used for "mother" in many languages ​​in the world, and in so many languages ​​derived from Sanskrit in India.
 
