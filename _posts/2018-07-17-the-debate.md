@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ananda Marga Debate
+title: The Debate
 ---
 The last half of this blog publication was missing.  I republished the entire article here:
 
