@@ -17,11 +17,11 @@ author: William Enckhausen
 
 navbar-links:
  
-  español: "https://www.williamquetzal.org/es/"
-  Author: "https://www.williamquetzal.org/william-enckhausen/"
-  Books:  "https://www.williamquetzal.org/books/"
-  Contact-Follow:   "https://www.williamquetzal.org/update-feed/"
-  Flute: "https://www.williamquetzal.org/contemplations-on-quenacho/"
+  español: "https://williamenck.github.io/es/"
+  Author: "https://williamenck.github.io/william-enckhausen/"
+  Books:  "https://williamenck.github.io/books/"
+  Contact-Follow:   "https://williamenck.github.io/update-feed/"
+  Flute: "https://williamenck.github.io/contemplations-on-quenacho/"
 
   
  
@@ -85,7 +85,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "williamquetzal.org"
+url-pretty: "williamenck.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

@@ -57,6 +57,6 @@ Niyama:  Personal practices
 
 5. Iishvara pran'idha'na: To take shelter or meditate on Iishvara, the Supreme Consciousness.
 
-<a href="https://www.williamquetzal.org/assets/English/books/A%20Name%20To%20The%20Nameless.pdf">Excerpt from A Name To The Nameless</a> 
+<a href="https://williamenck.github.io/assets/English/books/A%20Name%20To%20The%20Nameless.pdf">Excerpt from A Name To The Nameless</a> 
 
 For a more complete and very lucid, modern and socially applicable understanding of Yama and Niyama, I refer the reader to the book of Ananadamurti, “A Guide To Human Conduct.”

@@ -866,4 +866,4 @@ from us. But within this hazy mist is a definite theme and purpose for its every
 particle.
 
 
-an excerpt from <a href="https://www.williamquetzal.org/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>	
+an excerpt from <a href="https://williamenck.github.io/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>	

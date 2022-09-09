@@ -3,7 +3,7 @@ layout: post
 title: Life, Evolution and Microvita
 ---
 
-an excerpt from <a href="https://www.williamquetzal.org/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>	
+an excerpt from <a href="https://williamenck.github.io/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>	
 
 Any sincere spiritual seeker is satisfied with nothing less than the Infinite itself. Our quest for knowledge is infinite. When we discover a secret or hidden cause, we discover a chain of other questions that lead to yet undiscovered causes. And the further our knowledge ascends toward the spiritual, the summit of all knowledge, the more subtle and finer are the causes and the levels of mind to perceive them.
 
@@ -27,4 +27,4 @@ Hardly is the realization of Brahma the satisfaction of the abstract desire for 
 
 This book is about the subtle dynamics of the Macrocosmic Mind, the hidden and esoteric causes of phenomenal reality. In other words, it is a work of occult subjects and occult perceptions. This type of activity is only fruitful when one realizes the full spectrum of knowledge and that knowledge is not separated from the universal moral order or Dharma of Brahma. Only when we realize that all is from Brahma and are so intimately connected with Brahma is it mentally possible and prudent to begin to understand occult causality or Microvita. Tantric and Yogic lore warn time and time again of the dangers of occult perceptions and their ensuing powers of mind. It is only when one cares only for the realization of Brahma and is indifferent to the occult powers that one can truly understand the mysteries of causality. Therefore, only a mind that has been purified of its ambition of self-becoming, has the realization of the Supreme Consciousness, and endowed with universal love can really understand the ways of Brahma. 
 
-an excerpt from <a href="https://www.williamquetzal.org/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>	
+an excerpt from <a href="https://williamenck.github.io/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>	

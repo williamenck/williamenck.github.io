@@ -71,4 +71,4 @@ While the centripetal and centrifugal forces are fighting out their eternal game
 
 This energetic situation will only become more intense until we as a species, a collective consciousness, begin to understand this truth and cultivate a planetary culture which fosters this awareness. So many are falling into emotional imbalances and addictions. We go up too high and then we fall too low. We try to fix the lows with a high and are incessantly chasing our tails in a circle. Really, there is only One solution, and I hope that you all may truly be here to presence it and be part of a new, awakening humanity. Take shelter only in the loving, constant witness of the Atman, or the combativeness forces of nature shall rip thy mind apart like a gang of angry pit-bulls.
 
-an extract from <a href="https://www.williamquetzal.org/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>
+an extract from <a href="https://williamenck.github.io/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>
