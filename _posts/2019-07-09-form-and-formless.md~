@@ -49,7 +49,7 @@ One day I stopped breathing for a very long time.  I felt the kurma nadii in the
 
 I felt these ancestors desire to continue living through me but I questioned how this was possible because I could see myself passing from this world.  Then I saw them as rays of light forcing themselves back down, opening the Vishuddha chakra and entering my chest with the sound "ka", the sound that controls the propensity of hope.  Without a hopeful vision one cannot live well in this world, but in eternity even hope isn't necessary as all is complete.  In this state of "death" I received a new and optimistic vision for the future with some new activities that would bind me for a while.  I began to breathe again and gradually came out of meditation.  A friend's baby crawled over to me and repeated the sound "ka."  
 
-I returned to the ranch in the desert and became a <a href="https://www.williamquetzal.org/the-quixotic-narco-slayers/">quixotic narco slayer.</a> 
+I returned to the ranch in the desert and became a <a href="https://williamenck.github.io/the-quixotic-narco-slayers/">quixotic narco slayer.</a> 
  
 
 The Sons of Brahmins
@@ -82,4 +82,4 @@ I continue to have many dreams and visions of the Christ Consciousness. I do not
 
 One would never find me in a church or arguing over passages in the bible, but if being a Christian is the contemplation of the fundamental person behind the myriad human expressions who is eternally present within us and at one with the infinite consciousness, then I suppose I would be a practical Christian.  Although I always practiced yoga and meditation I always found inspiration in the Christian mystics like Meister Eckhart.  Two of my favorite artists, J.S. Bach and Andrei Tarkovsky, were Christians. For me, the Christian mystics and artists speak the same truth as the Upanishads or the sayings of the Buddha, expressions of the eternal living religion.
 
-an extract from <a href="https://www.williamquetzal.org/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>
+an extract from <a href="https://williamenck.github.io/assets/English/books/Microvita%20And%20Tantra%20Maya.pdf">Microvita And Tantra Maya</a>
