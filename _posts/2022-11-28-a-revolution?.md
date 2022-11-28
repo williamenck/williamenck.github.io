@@ -2,6 +2,7 @@
 layout: post
 title: Ananda Marga, A Revolution?
 ---
+<img src="{{ 'assets/img/downfall.png' | relative_url }}" alt="Not found" />
 
 I came across this photo the other day that I used to have on my blog.  I normally would never make fun of another person`s spelling errors, however this nun was being really immature with these threats.  I thought it was kind of funny and also decided to be immature.  She writes like a Hillbilly and I am "Bill" from Texas so why not have a little fun?  
 
