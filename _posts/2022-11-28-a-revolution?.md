@@ -18,4 +18,6 @@ These "vines" no longer wrap around the tree for support, rather they are strang
 
 I have heard stories from older and more honest acharyas that Anandamurti had once said that Ananda Marga would eventually no longer have monastic acharyas, that the acharyas would eventually be lay people.  Hopefully, that is true.  
 
+Ananda Marga is a socio-historical phenomenon that has already come and gone.  There is really nothing left of it.    It is an interesting history with a lot of intruigue of international rebellion and subversion that is worthy of study.  (https://williamenck.github.io/the-debate/) Yet, what interests me most is the mystical philosophy of Anandamurti and his great knowledge of tantra yoga.  That is worth preserving and in this day and age of the internet the priests will never be able to control his publications as too many people already have the original texts.  They only have control over very few people in a weak little religious society that really amounts to nothing.  
+
 Bill says is time to compost them rotten oranges. 
