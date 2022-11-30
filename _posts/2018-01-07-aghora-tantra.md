@@ -30,7 +30,7 @@ I was having a good laugh, at least something was happening to break this stale 
 
 <img src="{{ 'assets/img/skunk.jpg' | relative_url }}" alt="Not found" />
 
-I only thought of Shamitananda, Krsnananda, Madhuvidyananda, Mokseshvarananda, Nabanilananda, Kreepasundarananda, Playboy Peter Fleury and all of the rest of the acolytes of Shamitananda that covered for the Cobra Killer Shamitananda. 
+I only thought of Shamitananda, Krsnananda, Madhuvidyananda, Mokseshvarananda, Nabanilananda, Kreepasundarananda, Playboy Peter Fleury and all of the rest of the acolytes that covered for the Cobra Killer, Shamitananda. 
 
 Another very interesting synchronicity in my Ananda Marga-Narco drama is that I discovered that an Ananda Marga monk, Cirananda “Headkicker” is closely tied to the narco politician who is responsible for this terror in our area. Besides kicking other monks in the head he publicly threatens not just me but his neighbors with his connections to this narco politician. He tells his enemies that he is in well with the governor of Nuevo Leon, "El Bronco" Jaime Rodriguez.  Before becoming governor and a presidential candidate he was the local mayor when the genocide was most intense and it was also at that time that Headkicker connected with him. Rodriguez is currently under investigation by the FBI for accepting narco money in his previous campaigns. With Cirananda Headkicker entering the scene, my “projection” against the dark tantrics turned out not just to be symbolic, but factual as well. This is even more reason to boycott the Ananda Marga monastics of North America. I don’t claim that Headkicker is part of the genocide, but that he is ambitious and uses the wrong people to make alliances with.  
 
