@@ -3,6 +3,8 @@ layout: post
 title: Ramananda
 thumbnail-img: /assets/img/ramananda.jpg
 ---
+<img src="{{ 'assets/img/ramananda.jpg' | relative_url }}" alt="Not found" />
+
 Below is a publication from 2017.  It was written at a time when Ananda Marga was already mostly disintegrated.  The situation has not improved, to say the least.  I wrote it while I was still at El Misterio, when I had more contact with the A.M. world.  Now I see the whole show from afar, like a story that has already been told, that has already come and gone.  
 
 Currently, I see more vitality in the teachers who are younger and came to Ananda Marga because they understood the ideology and have benefited from the spiritual practices.  Instead of treating A.M. as a religion, they see A.M. as a system of meditation and way of life.  As far as the older monastics go:  the best ones are already dead.   The respectable, older ones still living suffer a lot and still try to give people a rosy colored filter of the present with stories from the past.  There is very little present activity inspiring anybody and so they tell stories of the glorious past.  Unfortunately, they end up being sanctimonious priests who, while doing no direct harm with any negative actions, end up creating a false narrative of the movement with their spin-doctoring.  Just last week I saw that a very well respected monk published a eulogy for the famous Ananda Marga mafia man, Karunananda, saying that he was such a great asset to Ananda Marga and the entire planet would miss him.  I wrote about my experiences with the gangster pimp Karunananda and the Ananda Marga mafia in ["The Debate."](https://williamenck.github.io/the-debate/) 
