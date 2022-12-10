@@ -2,6 +2,7 @@
 layout: post
 title: Ramananda
 thumbnail-img: /assets/img/ramananda.jpg
+tags:  ananda-marga
 ---
 <img src="{{ 'assets/img/ramananda.jpg' | relative_url }}" alt="Not found" />
 

@@ -2,6 +2,7 @@
 layout: post
 title: Aghora Tantra
 thumbnail-img: /assets/img/skunk.jpg
+tags:  ananda-marga
 ---
 This is a version of <a href="https://williamenck.github.io/a-requiem/">A Requiem</a> that I wrote for some old yogi friends.  During these adventures there was a parallel  drama that was occurring simultaneously.  I felt this parallel drama had too much synchronicity to seem believable if it were included in “A Requiem”, and so I include the parallel drama in the following account.
 

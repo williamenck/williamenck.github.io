@@ -2,6 +2,7 @@
 layout: post
 title: Ananda Marga, A Revolution?
 thumbnail-img: /assets/img/downfall.png
+tags:  ananda-marga
 ---
 <img src="{{ 'assets/img/downfall.png' | relative_url }}" alt="Not found" />
 

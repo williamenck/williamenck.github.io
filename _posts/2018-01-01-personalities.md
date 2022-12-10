@@ -2,6 +2,7 @@
 layout: post
 title: Personalities 
 thumbnail-img: /assets/img/chidghananda.jpg
+tags:  ananda-marga
 ---
 
 an excerpt from <a href="https://williamenck.github.io/assets/English/books/Light%20And%20Dark%20Tantra.pdf">Light And Dark Tantra</a>

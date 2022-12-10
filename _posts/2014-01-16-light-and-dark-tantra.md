@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Light And Dark Tantra
+tags:  ananda-marga
 ---
 <img src="{{ 'assets/img/chandranath.jpg' | relative_url }}" alt="Not found" />
 
