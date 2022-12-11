@@ -2,6 +2,7 @@
 layout: post
 title: The El Misterio Cult
 ---
+<img src="{{ 'assets/img/9.jpg' | relative_url }}" alt="Not found" />
 When I was fending off our ranch from the narcos I always meditated in this room.  I wrote about in <a href="https://williamenck.github.io/ahora-tantra">"Aghora Tantra"</a> of how I heard them outside of our property with a chainsaw one night.  I was meditating and I began to hear the OM sound so intensely that I could not hear the chainsaw.  I forgot all about it and went into a trance.  I came out of bliss in the middle of the night and remembered the chainsaw and thanked the "cabron divino" for the great experience.  
 
 I also used this space for the Ananda Marga revolution.  I wrote a letter denouncing the CobraKiller Shamitananda to the members of Ananda Marga in North America.  I knew I did the right thing.  I went and meditated, saw an infinite white light and 8 hours later I took a deep breath and came out of the trance.   I did not know 8 hours had passed until I checked the time.  I knew I had been in the breathless state of samadhi all of that time.
