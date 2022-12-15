@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taraka Brahma
+title: A Bridge To The Infinite
 tags:  ananda-marga
 ---
 Anandamurti reintroduced the old tantric concept of “Taraka Brahma.” Taraka means “bridge,” and Brahma is “infinite consciousness” and so Taraka Brahma is the bridge to the infinite entity of Brahma. Taraka Brahma is the point just between the unmanifested infinite ocean of Brahma (Nirguna Brahma) and the manifested creation, or Macrocosm, of Brahma (Saguna Brahma). All is Brahma, the visible and the invisible, creation and its essence. Essence and creation are both Brahma just as waves are part of the ocean. The essence of Brahma is like an infinite ocean without waves, the pure Consciousness behind the Macrocosm. The universe in which we live is the creation of Brahma, the Macrocosmic manifestation of Brahma. This vast universe full of planets, stars, nebula and galaxies are but waves that vibrate the surface of the infinite ocean of Consciousness and which make them appear as separate from the essential ocean. Taraka Brahma is the tangent between these two aspects of Brahma, the link between the visible, manifested Macrocosm and the invisible, unmanifested consciousness behind the Macrocosm.  
