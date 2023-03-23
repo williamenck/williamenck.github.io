@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just Flush It All
+title: White Trash
 thumbnail-img: /assets/img/white-trash.jpg
 ---
 <img src="{{ 'assets/img/white-trash.jpg' | relative_url }}" alt="Not found" />
