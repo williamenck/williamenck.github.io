@@ -24,4 +24,4 @@ I felt these ancestors desire to continue living through me but I questioned how
 
 I returned to the ranch in the desert with my retinue where a great socio-political drama started and I became a <a href="https://williamenck.github.io/a-requiem/">quixotic narco slayer.</a> 
 
-an extract from ["Form And Formless"](https://williamenck.github.io/form-and-formless/) 
+an excerpt from ["Form And Formless"](https://williamenck.github.io/form-and-formless/) 
