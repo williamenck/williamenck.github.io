@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Sons of Brahmins
+title: The Christ Consciousness
 tags:  ananda-marga
 ---
 an extract from <a href="https://williamenck.github.io/form-and-formless/">Form And Formless</a>
