@@ -3,9 +3,12 @@ layout: post
 title: The Cosmic Dirt-Bag
 tags:  ananda-marga
 ---
-an extract from <a href="https://williamenck.github.io/form-and-formless/">Form And Formless</a>
+This is a slight edition from the essays "The Sons Of Brahmins" and "The Christ Consciousness"
 
-### The Sons of Brahmins
+"He tells me that severe mental distortions are the results of previous negative actions and fears that to take on such cases may really do him in.  He says he cannot think of himself as a healer because these cases make him feel like the lowest and most psychologically and spiritually abandoned being in the universe.  He thinks the universe is pure bliss when one realizes that it follows certain moral and spiritual laws.  To harmonize oneself with this flow is pure innocence and bliss as relative, human life flows toward a higher perfection.  The divine feels very close, within one, floating just above one´s purest thoughts.  But during the times of trial, trying to heal such severe mental problems, he forgets this essential bliss and is calling upon a distant god to come and save his wretched soul.  Just before the point he thinks he will fall into some eternal abyss, some healing has taken place.  The other person has made some breakthrough and he feels the jaws of damnation are no longer devouring him and the bliss of innocence returns.  "So please don´t call me the healer," he says.  "I am just a cosmic garbage dump, a cesspool, or a white-trash dirt-bag used by some higher custodian.  I sometimes feel like I could be tossed out at any moment.""
+
+### The Cosmic Dirt-Bag
+
 
 There was once a foreign visitor to Ananda Nagar, India. He was supposed to only be there for one month but the monastic community he was visiting had some trouble with the Indian government.  They tried to rebel against the communists in the state of West Bengal and <a href="https://williamenck.github.io/the-debate/">got caught smuggling weapons into the country.</a>  He knew nothing of the political situation of Ananda Marga and was only meditating.  He got lost in the deep meditation of the spiritual environment which had been cultivated over thousands of years by yogis who could come to finish their spiritual work down by that river and enter the final stages of samadhi.
 
@@ -36,6 +39,8 @@ However, it was in the height of my realizations of the formlessness of the divi
 I continue to have many dreams and visions of the Christ Consciousness. I do not think of them or try to invoke them and they seem to come of their own accord. These experiences perhaps reveal some truths about Christian mysticism but I have never been able to identify myself as a Christian.  I have no religion or fixed belief system, solo experiencias espirituales basado en la practica espiritual.  I like tantric philosophy because it is based on spiritual practice and not fixed dogmas.  For that reason I like to explain my mystical experiences with tantric concepts and language.  It is a rational and practical system that other people can use to scrutinize these ideas and perhaps gain some practical insight into them through their own meditation.  
 
 One would never find me in a church or arguing over passages in the bible, but if being a Christian is the contemplation of the fundamental person behind the myriad human expressions who is eternally present within us and at one with the infinite consciousness, then I suppose I would be a Christian, by a very wide and liberal definition.  Although I always practiced yoga and meditation I always found inspiration in the Christian mystics like Meister Eckhart and Saint John of the Cross.  Two of my favorite artists, J.S. Bach and Andrei Tarkovsky, were devout Christians, like many other artists, philosophers and writers in the European tradition. For me, the Christian mystics and artists speak the same truth as the Upanishads or the sayings of the Buddha, expressions of the eternal living religion.
+
+an extract from <a href="https://williamenck.github.io/form-and-formless/">Form And Formless</a>
 
 Here is a piece of music by J.S. Bach that I play on my quenacho flute: "He Did Not Know He Suffered."
 
