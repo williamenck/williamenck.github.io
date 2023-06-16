@@ -37,7 +37,7 @@ An impermeable layer of sand and lime reinforced by wire mesh gives protection a
 
 <img src="{{ 'assets/img/casa.jpg' | relative_url }}" alt="Not found" />
 
-The house is a hive pattern of 6 connected hexagonal rooms. I like this photo because one can see the rock high on the horizon which is the limit and highest point of our land. It is quite an extreme hike to reach the top. 
+The house is a hive pattern of 6 connected hexagonal rooms. 
 <br/><br/>
 <br/><br/>
 ### Wattle And Daub
