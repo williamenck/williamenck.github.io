@@ -24,4 +24,4 @@ The calm one sat there so calm like he already knew this.  The other one vocaliz
 
 The Atman is the ground of our awareness.  It is like the electricity passing through a series of different bulbs.  The light might be white, yellow, or blue, may be a disco ball or a lava lamp, but no matter what form the outlet expressing it has, it is always the same electricity enlightening all.  It is one struggle to see it in oneself, but an even greater struggle to see it in others, especially those who are perceived to be the enemy.  To find some common ground in the social and relative world between rivals is peace.  But what if those social negotiations also recognized a deeper common ground?  Would there be a god of Israel, a god of Islam, or the god of the Christians to impede our essential union?
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
