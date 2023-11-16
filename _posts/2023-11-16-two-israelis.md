@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Two Israelis Under The Atman
 
