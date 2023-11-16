@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 ## Two Israelis Under The Atman
 
