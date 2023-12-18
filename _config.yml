@@ -6,11 +6,11 @@
 # --- Required options --- #
 
 # Name of website
-title:
+title: William Enckhausen
 
 
 # Your name to show in the footer
-author:
+author: William Enckhausen
 
 
 # --- List of links in the navigation bar --- #
@@ -18,7 +18,10 @@ author:
 navbar-links:
  
   español: "https://williamenck.github.io/es/"
-
+  Author: "https://williamenck.github.io/william-enckhausen/"
+  Books:  "https://williamenck.github.io/books/"
+  Contact-Follow:   "https://williamenck.github.io/update-feed/"
+  Flute: "https://williamenck.github.io/contemplations-on-quenacho/"
 
   
  
@@ -257,3 +260,4 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
