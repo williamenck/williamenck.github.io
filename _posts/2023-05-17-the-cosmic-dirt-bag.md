@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Cosmic Dirt-Bag
-tags:  ananda-marga
 ---
 This is a slight edition from the essays "The Sons Of Brahmins" and "The Christ Consciousness"
 

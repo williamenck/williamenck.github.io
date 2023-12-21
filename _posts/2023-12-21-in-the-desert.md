@@ -1,9 +1,7 @@
 ---
 layout: post
-title: El Misterio
-tags: ananda-marga
+title: In The Desert
 thumbnail-img: /assets/img/9.jpg
-published: true
 ---
 After one begins to meditate sincerely and feel that life is deeply full of meaning one understands that life is a process of liberation from emotional and cognitive bondages.  The individual is ultimately responsible for everything that happens and one´s inner attitudes and conditions determine what occurs in life.  It is no longer possible to blame anybody or anything for our existential and spiritual state of being when one begins to understand the law of action and reaction.  Instead, one is responsible for all of one´s past actions and the future requital of those actions and resigns to this universal law.  Only then can there be freedom, freedom from the past and freedom to act in the future without the cloudy disturbances of past complexes and fears distorting actions that generate negative reactions.  All spiritual people I know from all walks of life are on the path of this realization, no matter what their philosophies.  True spirituality connects one to the essence of life and the underlying spiritual laws that govern human existence and people who are aligned with the essence of their lives will always discover deeper, universal laws.  
 
