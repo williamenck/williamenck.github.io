@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 The Sanskrit word for human love that emanates from the spiritual heart is called “mamata.” I don’t understand much Sanskrit but I imagine it is related to the word “mama” as the Sanskrit phoneme “ma” is used for “mother” in many languages in the world.
 
@@ -92,4 +92,3 @@ To tell lies and continue to tell lies which defame innocent people is a patholo
 This duality is also very pathological for the followers as well.  Nobody really believes her, yet they need her for their own security.  Not only do they support the lies and defamation of their leader, but they also are affected by the psychotic contradictions in the narrative.  As they are already vulnerable already such a mental position can bring no peace of mind.  Yet they have united with a dark cult and a swamp of cognitive dissonance.  Not only do they have to deal with the lies of their local cult leader but they also have to assimilate all of the lies, perversion and criminality of their the corrupt yoga cult.  It is far better not even to begin with lies.  
 
 There can be no unity based on lies and eventually these troubled people will realize they have all lied and have been lied to. What they have is based upon pure fiction.  I tried for sometime to cover for them with the hope that they would not fall too hard when they receive the reactions to their actions but it was a form of falsehood on my part.  Covering for people who hated and betrayed me, it made me feel so sick!  It is far better just to surrender them to the macrocosm and let the laws of the universe sort things out.
-
