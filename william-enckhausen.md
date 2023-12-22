@@ -1,7 +1,8 @@
 ---
 layout: post
-title: William Enckhausen 
+title: William Enckhausen
 author: William Enckhausen
+published: true
 ---
 
 ### The Flight Of The Quetzal
@@ -33,6 +34,3 @@ When I sat next to Chandranath and tried to listen to him speak of the Supreme C
 
 People like Chandranath have set a practical example of how a realized yogi can live in the world. It seems miraculous, perhaps even absurd, that the human mind can unite with the Supreme Consciousness. We can truly say “I am This” from the most sincere and complete part of our beings. However, it seems even more miraculous the benevolent grace that emanates from such a realized being and their ability to transform others. He seemed to me a man so simple and pure and I never felt that he was asking anything from me; he only gave himself wholeheartedly to anybody seeking guidance. For a yogi who practices samadhi regularly, such a conscious and humane expression like Chandranath is the most natural and simple creation of the Supreme Consciousness. When the microcosmic mind dissolves into the Supreme Consciousness, there is really no ego, nor even I-feeling, that binds one to the relative plane. Many yogis leave their bodies after such experiences. Others, like Chandranath, mysteriously returned to the relative plane of earthly existence and continued to serve others. I think that when when one enters the breathless state of samadhi and dissolves completely into the Supreme Consciousness, then it is only this One that can breathe the breath back into this unified yogi. If it weren’t for people like Chandranath, his wife and Chidghananda, who really set such a practical ideal, then I probably would have thought that such beings existed only in the distant past, in legends, and that the modern world is no longer habitable for advanced yogis. In the most mystical and subtle ways, people like Chandranath leave an undying imprint on the people they affect, and thereby leave their mark on the collective consciousness of humanity as a whole.
 
-an excerpt from <a href="https://williamenck.github.io/assets/English/books/Light%20And%20Dark%20Tantra.pdf">Light And Dark Tantra.</a>
-
-I also used this story as the introduction to <a href="https://williamenck.github.io/assets/English/books/A%20Name%20To%20The%20Nameless.pdf">A Name To The Nameless</a>
