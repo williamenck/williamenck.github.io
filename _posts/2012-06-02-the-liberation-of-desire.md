@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Sexuality is one of the least understood aspects of human life.  All have this desire, but few people seem to find a healthy solution to sexual conflicts.  There is so much suffering caused by blind sexuality.  So many women are abandoned with children by men whose animal instincts soon pull them elsewhere after a little sensory gratification.  The trail of trauma for the woman may continue as she must struggle to care for the child that have been abandoned.  Or perhaps it was her unfulfilled or frustrated desires that caused the separtion to begin with.  One thing is certain, and it is that there are fewer and fewer examples of harmonious co-existence in human sexual-emotional affairs.  As a culture we have gone back into the stone age as regards to sexuality.  Instead there is emerging a whole culture of permissiveness and even indulgence.  In truth, this distortion of the sexual tendency leaves many with very little happiness remaining in marriage or interpersonal relationships.  Conversely, I see very little hope in "free love" and open relationships as well.  While some like the way it sounds in theory, I have always seen that somebody always ends up getting hurt.  What we need is love.  Sexuality doesn't necessarily have to ruin this but it usually does if one or both people lack insight into what emotive factors are really driving them deep within.  And it is only by going deep within and seeing these needs that one can find fulfillment in sexuality and relationships.  Very few people can altogether transcend these needs.  These people are very rare and very interesting.  
@@ -89,8 +89,4 @@ The only functional sexual tantra that I have ever known is to first be responsi
 I have come to think that when there is no suffering, there is no desire, and where there is no desire, there is no suffering.  This is true for all desires, not just sex.  Few people can really understand this.  Ramakrishna once said that mundane pleasure is like a dog chewing a sharp bone and doesn't realize the “satiation” of this desire comes from its own blood.  It is fear and insecurity that keep us bound into the limitation of a separate self, and therefore bound to selfish desires.  Sometimes, even very highly developed minds overlook these underlying reverberations in the shadows of the emotions.  The pirates to our present state of bliss are often something unseen from our past.  I have found that the study of the vrttis, especially those of the svadhistana, are paramount for finding the psychological balance that permits intuitive, spiritual development.  
   
   
-an excerpt from [Light And Dark Tantra](https://williamenck.github.io/assets/English/books/Light%20And%20Dark%20Tantra.pdf)  
-
-  
-
-
+an excerpt from [Light And Dark Tantra](https://williamenck.github.io/assets/English/books/Light%20And%20Dark%20Tantra.pdf)
