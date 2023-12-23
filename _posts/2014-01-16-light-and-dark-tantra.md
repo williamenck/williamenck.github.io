@@ -1,10 +1,7 @@
 ---
 published: true
 ---
----
-layout: post
-title: Light And Dark Tantra
----
+
 <img src="{{ 'assets/img/acharyas.jpg' | relative_url }}" alt="Not found" />
 
 Writing Light And Dark Tantra was always a balancing act.   It felt very good to write about my experiences with people like Chandranath  (at the far right of the photo) and other early disciples of Anandamurti.  One can even feel a sense of pride about being associated with a spiritual society directed by such people. Although it was interesting and also meaningful to write about the myriad problems with Anandamurt´s movement as it became larger and attracted a lot of adventurous monastics who got involved in all too many shady activities, there was always the possibility of falling into a shame complex by mentioning these dark situations, of being associated with these people even by criticizing them.  I often had to conjure up the memory of Chandranath and the early disciples to again enlighten the effort of saying, "yes, there was once truth and vitality in A.M. and the light of Anadamurti shone through these people."  I ultimately justify even the dark side of the story by saying it was a great lesson on understanding the human shadow and that any society that was given such a supercharged dose of spiritual energy would have passed through the same human dramas.  Anandamurti put a lens of focus over the consciousness of humanity.  The darkest corners of the human mind are enlightened.  Some people received the light and were illuminated yet some resisted and their shadows only strengthened and rebelled.  
