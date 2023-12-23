@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 “Brahma alone is the guru.” This saying from the Upanishads represents a very universal conception of the deity. Brahma literally means that which is great and makes others great. In other words, Brahma is the Consciousness of the Macrocosm, of the entire universe. The guru is none other than the Supreme Consciousness and cannot be tainted by partiality nor prejudices nor any relative projection of a messiah or human guru. What is, simply is. If the Supreme Consciousness can create this entire universe, then surely there is an unmediated, direct way to communicate with me, a little microcosm in this Macrocosm. “Am I a secluded figure, in the vast, a little ameagre? No no no no I am not alone, the great is with me.”  
@@ -53,4 +53,3 @@ The Tantra Maya healing and meditation practices are remarkably similar to the o
 The practice of Tantra Maya also involves healing, herbology, and astronomy. They were all one science integrated science. I learned some meditation techniques necessary to merely begin to understand mayan astronomy, which is an intuitive science that requires direct, mystical experience. This requires one to unify one’s little microcosmic existence into the Macrocosm, the universe as a whole. This type of mystical experience was very different than what I had previously understood as mysticism. I suppose my ideas were more classical. I always liked the Upanishads, Toaism, and contemplatives like Meister Eckhart, Plotinus and Ramana Maharshi. They represented the peak spiritual knowledge in my opinion. Tantra Maya is a very elevated form of nature mysticism. Its purpose is to understand the pure subjectivity of the inner self, like in classical mysticism, yet at the same time develop a deep connection with the natural creation. One contemplates the with spirit within for self-realization while one connects to the subtle realms of nature to work with and serve the living, vibrant Macrocosm.
 
 an excerpt from [Light And Dark Tantra](https://williamenck.github.io/assets/English/books/Light%20And%20Dark%20Tantra.pdf)
-
