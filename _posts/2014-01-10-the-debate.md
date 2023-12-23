@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 layout: post
@@ -52,4 +52,3 @@ The producer of <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=
 I think we need to hunt down Devashish and have a conversation with him. Devashish made a joke with me just after the court case and our deportation to the U.S. He said, “Have you seen Nirvananda’s new face yet?, he looks good with his new plastic surgery.”  I asked him if I ever met this monk, not knowing who he really was.  The pictures of him in the newspapers resembled a friend of Devashish`s that visited him in India at the time of the arms drop. Devashish did not respond to my question but just laughed and walked away.  
   
 an excerpt from [Light And Dark Tantra](https://williamenck.github.io/assets/English/books/Light%20And%20Dark%20Tantra.pdf)
-
