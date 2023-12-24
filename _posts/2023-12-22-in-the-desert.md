@@ -31,7 +31,7 @@ Unfortunately, this is where things become very difficult and where so many spir
 <img src="{{ 'assets/img/9.jpg' | relative_url }}" alt="Not found" />
 
 
-After 2012 and my writings about the narco war more people wanted to come into contact with me.  I was hermit who hardly left the desert where I had built my home and a small community.  I was working with associates who had more connection with the outside world.  However, I was working with an indigenous healer who saw herself as my manager and was jealous of anybody who became close to me, people who became my students and friends. Although quite an intuitive and effective healer, her emotional insecurities eventually got the best of her.
+After 2012 and my writings about the narco war more people wanted to come into contact with me.  I was like a hermit who hardly left the desert where I had built my home and a small community.  I was working with an indigenous healer who saw herself as my manager and was jealous of anybody who became close to me, people who became my students and friends. Although quite an intuitive and effective healer, her emotional insecurities eventually got the best of her.
 
 My friend was a very influential person with the Zapatistas.  She was deeply distressed by the sexual misconduct of the male leaders in the movement, namely those of Subcomandante Marcos.  She began to have deep resentments towards men, especially men in situations of power who had attractive qualities.
 
