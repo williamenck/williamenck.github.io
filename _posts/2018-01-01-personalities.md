@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Personalities 
+title: Personalities
 thumbnail-img: /assets/img/chidghananda.jpg
-tags:  ananda-marga
+tags: ananda-marga
+published: true
 ---
 
 an excerpt from <a href="https://williamenck.github.io/assets/English/books/Light%20And%20Dark%20Tantra.pdf">Light And Dark Tantra</a>
@@ -20,6 +21,8 @@ There were also dreams with the form of Anandamurti which were always illuminati
 Chidghananda was there when I had these experiences. I was living next door to him when I had these experinces and I strongly suspect Chidghananda´s influence. I was surprised that such a mature and great man acted like I was his best friend. It was the greatest honor of my life.
 
 I did not want to be deceiving myself with false visions. I was educated as a scientist and always tried to be very critical of my own subjective experiences, especially these strange mystical visions. I ate psychedelic mushrooms once in college and it was beautiful, but it was really nothing compared to these meditation experiences at Ananda Nagar. The experiences were so much more powerful than mushrooms and did not require an altered state of consciousness. The practice of yoga and a few hours of meditation a day induced these experiences. I was vegetarian, used no drugs nor alcohol, and in the company of Chidghananda I truly felt like a monk. He was a perfect gentlemen around women and he showed them so much respect, yet I never saw him overstep his monastic boundaries. Having an example like that really made a young man feel confident that one could live a happy monastic life like him.
+
+<a href="https://williamenck.github.io/assets/chidghananda.mp4">Video Interview With Dada</a>
 
 Every time I meditated near him he went into trances. All of the air would immediately be pushed out of his body with an extremely loud “Humm” sound as the kundalini would rise. Then his body would get really tense and shake and then he would stop breathing and was totally calm, as if he were dead. I asked him what he experienced. He said he always heard the Om sound but when he meditated he would let himself go and be absorbed into it. Sometimes he would see the form of Anandamurti just before entering into this samadhi trance, other times the experience was completely formless. He encouraged me to meditate on formlessness but always said there was something very special in the form of Anandamurti. He never dogmatized about it and when people asked him if Anandamurti was really the incarnation of god, or Taraka Brahma, or some other concept, he would simply say, “Baba was Baba. Anandamurti himself said he was a mystery and will always remain a mystery, so what can I say?”
 
