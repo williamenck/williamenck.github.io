@@ -27,5 +27,19 @@ After arriving I could feel a very deep friendliness in the people and recalled 
 
 I continue to read their literature, expecially the communications from EZLN, but the message is so lucid that I have to take it in slowly because the impact is so intense on my mind. Their discourse is really about the most fundamental human issues of justice, equity, and dignity. It is great humanist philosophy that is the result of 500 years of suffering and terror. Their humane ideals extend far beyond the indigenous of Chiapas and teach us a little about the nature of universal humanity. Each time I learn something more, I have greater and greater respect for these bold people who have endured 500 years of exploitation and the most terrible sufferings yet have managed to achieve something so great.
  
-
 In the past few years my own community in the<a href="https://williamenck.github.io/a-requiem/"> north of Mexico has passed through a terrible genocide</a>.  I have seen so much terror and carnage that I now see the indigenous revolution as descent into the abyss to find fundamental human truth.
+
+As I wrote in "A Requiem" about how some Zapatista friends came to help me out when our ranch was surrounded by the Santa Muerte narco cult.  He was sent to investigate the claims I had made in my writings and was also my liason to the Consejo Nacional Indígena and shared their ideas and activities with me.  They used to call me Geronimo because of the stand I took against the narcos.  
+
+I became friends with this liason, Jacinto.  He was a very kind and gentle indigenous man with a lot of wisdom.  He was also a very heroic revolutionary.  There were terrible things going on around us but we had long conversations on spirituality as well as social and political issues.  We shared meals and he helped me out with some cob and adobe constructions I was working on.  It was a great surprise to see he was also an expert eco-builder, which for him was just knowing how to construct as his ancestors had always done.  
+
+He had a very brave quality.  He helped indigenous people get their land back from peopled who had robbed them.  He had been sent to jail and tortured on a number of occasions.  He told me that just a month ago the police had knocked his tooth out.  He told me this while laughing with a light heart.
+
+He had started investigating the local evils.  He wanted to factually verify my claims.  He saw that the trucks came in very quickly in the afternoons and left very slowly at dawn with their suspension very low.  We heard screams at night and saw skeletons in the valley.  We knew it was a human slaughter house nearby and the Santa Muerte were probably stealing organs  However, he started making friends with the locals and started asking questions.  It seemed many people knew what we did yet could not speak of what they had seen and heard.   One man told him that the trucks that came in the afternoons always stopped to buy several bags of ice.
+
+The zetas knew we were there.  It was a stand off.  We had smart and organised people watching over us.  That was the gamble, the balancing act that would keep us from getting butchered as well.
+
+One night they surrounded us (again) and were firing off machine guns.  He told me it was more terrifying than '94, and at least then he had an AK-47 for protection.  Here, we had nothing but "astral weapons," he laughed.  I said that our fight was something spiritual, and that we could overpower the enemy as such.  He told me that Geronimo was also a shaman and used all kinds of occult trickery to escape the army for so many years.
+
+The last day I saw him I thanked him for educating me about the indigenous plight in Mexico but asked him how they could ever achieve freedom against the great powers that keep them down.  He was a tried and true warrior who had already passed through violence but he replied that the revolution would be achieved through love.
+
