@@ -1,0 +1,177 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "ef45a6f78234946497ee2e50313acbaa"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "121f9229b70ae53481164a337d2b1fae"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/william-enckhausen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/william-enckhausen/index.html",
+        "type": "file",
+        "md5": "01427c205d34fa1b670717e58d0c0a3b"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "98980634ed37adf16169d746f216f025"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "12fd467da3559f192e08e7952e9824d8"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "99f637555c84a64efb6b42c66cfa046a"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/20190828_101641003_HDR.jpg",
+        "type": "file",
+        "md5": "70009ce2c5abcec37c47c3ed4db62fa2"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-2xl.jpg",
+        "type": "file",
+        "md5": "f6d0bc0b2d35d141dae266d851d88a83"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-lg.jpg",
+        "type": "file",
+        "md5": "4fa197c043444deb7d4c196c82c41014"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-md.jpg",
+        "type": "file",
+        "md5": "1c6c603ce06b86a5d31525187424b307"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-sm.jpg",
+        "type": "file",
+        "md5": "5d9fba582a3d06766a3b858ea7b9b6c3"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-xl.jpg",
+        "type": "file",
+        "md5": "9b2be009ddbd969fef545df87f74f237"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-xs.jpg",
+        "type": "file",
+        "md5": "bb7d08a7610169d7eb5e88dd6d7fa48c"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "f2006949a4e85aa0139dc41998d90597"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "e94db326f6e1cb90a4af7a6023e9cf8a"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "6e43128982a6b98ac690c6de5cd5dfcc"
+    }
+]

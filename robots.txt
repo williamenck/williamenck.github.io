@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://williamenck.art/sitemap.xml
