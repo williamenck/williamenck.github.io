@@ -222,7 +222,7 @@
     {
         "path": "/contactfollow/index.html",
         "type": "file",
-        "md5": "71ffd3b8a385d45c79020b4022747de2"
+        "md5": "60669c06259094a74a7c3d1c4c2519d4"
     },
     {
         "path": "contemplations-on-a-quenacho",
@@ -247,12 +247,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2e1004707cd848864a88c265db4e5e08"
+        "md5": "1b6ff82d7bee5ac018a2e23c6f1d24f8"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c070b2cb75692d4c85574a208b7eba89"
+        "md5": "77af64ee4742c582f76a9ac4b33a8569"
     },
     {
         "path": "form-and-formless",
@@ -1192,12 +1192,12 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "09e166e6833f8aeb9be3225cd60d6727"
+        "md5": "23ee39a570405b14600d5955e9cef609"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
-        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
     },
     {
         "path": "stories-of-quetzal",
