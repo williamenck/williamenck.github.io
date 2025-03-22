@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "9e26b826b3f49803fc45bb9b2d92f963"
+        "md5": "1baed0344d0468221e6ede19ef0a9f35"
     },
     {
         "path": "a-bridge-to-the-infinite",
@@ -12,7 +12,7 @@
     {
         "path": "/a-bridge-to-the-infinite/index.html",
         "type": "file",
-        "md5": "c43c7eaa572743e6cd928d237a73bcce"
+        "md5": "18cabd549bfc5cd66d0198a435b8c478"
     },
     {
         "path": "a-frameless-photo",
@@ -22,7 +22,7 @@
     {
         "path": "/a-frameless-photo/index.html",
         "type": "file",
-        "md5": "d767b6faabb580cf56e8f17b7495bddb"
+        "md5": "a307d393a19d041328dd0e56a6983d6f"
     },
     {
         "path": "a-greeting",
@@ -32,7 +32,7 @@
     {
         "path": "/a-greeting/index.html",
         "type": "file",
-        "md5": "8e8ef1514a2e2f92f2383d73caa697e7"
+        "md5": "7e5119a3c4be67ea682d21c7f5992256"
     },
     {
         "path": "a-marriage-of-sense-to-soul",
@@ -42,7 +42,7 @@
     {
         "path": "/a-marriage-of-sense-to-soul/index.html",
         "type": "file",
-        "md5": "4d914d295b21448546b7bfe0d873c074"
+        "md5": "74bc27587eee16471e04e4ba8e7cf335"
     },
     {
         "path": "a-requiem",
@@ -52,7 +52,7 @@
     {
         "path": "/a-requiem/index.html",
         "type": "file",
-        "md5": "b0e27b4b5486457dfbd3217a3cb6a180"
+        "md5": "7efb1f3ad3761211d53b80283fa3a0cd"
     },
     {
         "path": "adobe-construction",
@@ -62,7 +62,7 @@
     {
         "path": "/adobe-construction/index.html",
         "type": "file",
-        "md5": "86433c18d5854de196a15eb9de8040c0"
+        "md5": "3c20749bb4b1731d30faf51b2eddd2e2"
     },
     {
         "path": "all-of-us",
@@ -72,7 +72,7 @@
     {
         "path": "/all-of-us/index.html",
         "type": "file",
-        "md5": "0fcf49d09614568da525df643ed364ab"
+        "md5": "02df5917c87813ab6c74bc252fd141e0"
     },
     {
         "path": "anahata-introduction-and-chapter-1",
@@ -82,7 +82,7 @@
     {
         "path": "/anahata-introduction-and-chapter-1/index.html",
         "type": "file",
-        "md5": "85e34179a78e4593982d7aac8036de78"
+        "md5": "78f8045cfc94899cd76cf46ef8835413"
     },
     {
         "path": "apparitions",
@@ -92,7 +92,7 @@
     {
         "path": "/apparitions/index.html",
         "type": "file",
-        "md5": "7ffe369b7b208de6db0b45af6cdb3e4f"
+        "md5": "ccd665c8df394b18baf0d620b30177a0"
     },
     {
         "path": "asana-ethics-and-evolution",
@@ -102,7 +102,7 @@
     {
         "path": "/asana-ethics-and-evolution/index.html",
         "type": "file",
-        "md5": "8161ca17214427f8e1399860bc43f11b"
+        "md5": "304480d250a4b2573b1720bc11cd1c33"
     },
     {
         "path": "assets",
@@ -182,7 +182,7 @@
     {
         "path": "/authors/william-enckhausen/index.html",
         "type": "file",
-        "md5": "e97e85e77f77ec3a0c30a53d606785be"
+        "md5": "a72ba771c9bab129a18f474dd3db3274"
     },
     {
         "path": "between-two-devils",
@@ -192,7 +192,7 @@
     {
         "path": "/between-two-devils/index.html",
         "type": "file",
-        "md5": "d1aa30f8e3f1f192b60b9a60806fd487"
+        "md5": "d24f258d16328a4eedd886d7c27e1881"
     },
     {
         "path": "books",
@@ -202,7 +202,7 @@
     {
         "path": "/books/index.html",
         "type": "file",
-        "md5": "9b9f0f18923a5de07abbcf9ca4e04acf"
+        "md5": "f27bea722e35948cb687dff1e6dfd47f"
     },
     {
         "path": "collective-evolution",
@@ -212,7 +212,7 @@
     {
         "path": "/collective-evolution/index.html",
         "type": "file",
-        "md5": "7c92810df1811d2e611fa844321c7c4f"
+        "md5": "e9558d93c5f5c2478a8b0292b12d69ca"
     },
     {
         "path": "contactfollow",
@@ -222,11 +222,7 @@
     {
         "path": "/contactfollow/index.html",
         "type": "file",
-<<<<<<< HEAD
-        "md5": "60669c06259094a74a7c3d1c4c2519d4"
-=======
-        "md5": "c90d4e9e056671132db99e921491f36f"
->>>>>>> 44653aebe60eaddbbe9776223a7de39412e8d58f
+        "md5": "1b972579962cacc1d37f629153fb997a"
     },
     {
         "path": "contemplations-on-a-quenacho",
@@ -236,7 +232,7 @@
     {
         "path": "/contemplations-on-a-quenacho/index.html",
         "type": "file",
-        "md5": "54f15e1461383209d6d57cebe6818da8"
+        "md5": "c9adbcebdff430eb85f7092009127420"
     },
     {
         "path": "discernment-and-depression",
@@ -246,12 +242,12 @@
     {
         "path": "/discernment-and-depression/index.html",
         "type": "file",
-        "md5": "74ae286a0f0aed2fd421494efc366a18"
+        "md5": "ff61cf0271614664948b7a4f51ff1512"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "1b6ff82d7bee5ac018a2e23c6f1d24f8"
+        "md5": "d4fedf838fa2b5cdcb767c1b472db2cc"
     },
     {
         "path": "feed.xml",
@@ -266,7 +262,7 @@
     {
         "path": "/form-and-formless/index.html",
         "type": "file",
-        "md5": "2ea347cefc08e7e0d974771ea6feb915"
+        "md5": "1b0688f83ad0e4321c8f3110914048ab"
     },
     {
         "path": "frogs-and-fugues",
@@ -276,7 +272,7 @@
     {
         "path": "/frogs-and-fugues/index.html",
         "type": "file",
-        "md5": "3af6981af74c7ae5bda24a168f972ec8"
+        "md5": "367be660ba2c182c272539d2d5cd59bc"
     },
     {
         "path": "from-quetzalcoatl-to-cassanova",
@@ -286,7 +282,7 @@
     {
         "path": "/from-quetzalcoatl-to-cassanova/index.html",
         "type": "file",
-        "md5": "1c9d0978ec51972ff97ef935b5df89c8"
+        "md5": "62b155338e9c175102e1c528e603dec4"
     },
     {
         "path": "gymnopedia-on-yerba-mate",
@@ -296,12 +292,12 @@
     {
         "path": "/gymnopedia-on-yerba-mate/index.html",
         "type": "file",
-        "md5": "8e89764c7ec20b32657c693253c7ac40"
+        "md5": "8d4f0227f1e1afc60af0231f1455a904"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "851e0a78b8724d009fc10eac33b4bd9e"
+        "md5": "1bddc7cba3be9f2c97e9a97729a11667"
     },
     {
         "path": "joy-and-trauma",
@@ -311,7 +307,7 @@
     {
         "path": "/joy-and-trauma/index.html",
         "type": "file",
-        "md5": "053eba9bc67f8513e6101ef55f910289"
+        "md5": "77d44be05d9b52c9695608e9a5e151b2"
     },
     {
         "path": "light-and-dark-tantra",
@@ -321,7 +317,7 @@
     {
         "path": "/light-and-dark-tantra/index.html",
         "type": "file",
-        "md5": "d1eeec20e6999300a5d26148311d463c"
+        "md5": "00e339923eba5a7b3e81155294fad401"
     },
     {
         "path": "media",
@@ -346,7 +342,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "5a52954645ba8a12189b42a7f5c8d63d"
+        "md5": "887bc8f46889ca571677de9f501b996d"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -1134,6 +1130,51 @@
         "md5": "2c1db6df068f51d436be00426acc1493"
     },
     {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/20190828_101641003_HDR.jpg",
+        "type": "file",
+        "md5": "70009ce2c5abcec37c47c3ed4db62fa2"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-2xl.jpg",
+        "type": "file",
+        "md5": "f6d0bc0b2d35d141dae266d851d88a83"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-lg.jpg",
+        "type": "file",
+        "md5": "4fa197c043444deb7d4c196c82c41014"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-md.jpg",
+        "type": "file",
+        "md5": "1c6c603ce06b86a5d31525187424b307"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-sm.jpg",
+        "type": "file",
+        "md5": "5d9fba582a3d06766a3b858ea7b9b6c3"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-xl.jpg",
+        "type": "file",
+        "md5": "9b2be009ddbd969fef545df87f74f237"
+    },
+    {
+        "path": "/media/website/responsive/20190828_101641003_HDR-xs.jpg",
+        "type": "file",
+        "md5": "bb7d08a7610169d7eb5e88dd6d7fa48c"
+    },
+    {
         "path": "personalities",
         "type": "directory",
         "md5": false
@@ -1141,7 +1182,7 @@
     {
         "path": "/personalities/index.html",
         "type": "file",
-        "md5": "6115dd789247ae6236bccbea6e652a38"
+        "md5": "2240500891eb7b070f1e932d73da7f50"
     },
     {
         "path": "pleasures-habits-and-addictions",
@@ -1151,7 +1192,7 @@
     {
         "path": "/pleasures-habits-and-addictions/index.html",
         "type": "file",
-        "md5": "f36b295990ce58aae91ec4dadfed54c6"
+        "md5": "a955e49e6b2fe6673b90e831d83e5085"
     },
     {
         "path": "psorax",
@@ -1161,7 +1202,7 @@
     {
         "path": "/psorax/index.html",
         "type": "file",
-        "md5": "082235dea0e6c17ea2274567465f441a"
+        "md5": "84b971ba91fb3d20b7bc3b60eca0018c"
     },
     {
         "path": "recreating",
@@ -1171,7 +1212,7 @@
     {
         "path": "/recreating/index.html",
         "type": "file",
-        "md5": "666baacedac1f966dd00987e0b0c7029"
+        "md5": "7229e3c3ae029cabff0358fc0b430468"
     },
     {
         "path": "redemption",
@@ -1181,7 +1222,7 @@
     {
         "path": "/redemption/index.html",
         "type": "file",
-        "md5": "ecd4ee9b8c748df8d03a5eec73aa85b0"
+        "md5": "b1dfc454da3c2decee07f12ce9014b97"
     },
     {
         "path": "robots.txt",
@@ -1191,16 +1232,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "96bbddc452d34c6bc66263f2484d7fa0"
+        "md5": "b5f96e1aedd028d9416f62e565b375b9"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-<<<<<<< HEAD
         "md5": "23ee39a570405b14600d5955e9cef609"
-=======
-        "md5": "3900f731d138d8354ac3135e2e417a28"
->>>>>>> 44653aebe60eaddbbe9776223a7de39412e8d58f
     },
     {
         "path": "sitemap.xsl",
@@ -1215,7 +1252,7 @@
     {
         "path": "/stories-of-quetzal/index.html",
         "type": "file",
-        "md5": "dfadc370c32dde966bcc270a8c6cff13"
+        "md5": "5fd1d2e32d931c0ffd713c70db2dd93e"
     },
     {
         "path": "tags",
@@ -1225,7 +1262,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "46d860dd0966870619e19d8f705b475e"
+        "md5": "d2d4c445b194c82b95ace45ef463b692"
     },
     {
         "path": "the-breaking-point-and-the-possessed",
@@ -1235,7 +1272,7 @@
     {
         "path": "/the-breaking-point-and-the-possessed/index.html",
         "type": "file",
-        "md5": "99577737f6b48aa4603f4fa6525abe60"
+        "md5": "6def53b4a5c43c21a64bee7e8baa303f"
     },
     {
         "path": "the-debate",
@@ -1245,7 +1282,7 @@
     {
         "path": "/the-debate/index.html",
         "type": "file",
-        "md5": "45d80382d039474804f8987c596edc1f"
+        "md5": "59d1f9a8d10f0d57b45d6b0596d80f29"
     },
     {
         "path": "the-divine-cactus",
@@ -1255,7 +1292,7 @@
     {
         "path": "/the-divine-cactus/index.html",
         "type": "file",
-        "md5": "386f0a967590044d52fe1b86bf94ef3d"
+        "md5": "790c46b13d779854d209d6ddcfe715c0"
     },
     {
         "path": "the-elite-pseudoculture",
@@ -1265,7 +1302,7 @@
     {
         "path": "/the-elite-pseudoculture/index.html",
         "type": "file",
-        "md5": "36cbe43cfaa5222a6df00ef5f8b9453c"
+        "md5": "96a79a2f40196f785f063e4a1c534bc6"
     },
     {
         "path": "the-indigenous-revolution",
@@ -1275,17 +1312,7 @@
     {
         "path": "/the-indigenous-revolution/index.html",
         "type": "file",
-        "md5": "e3672a215ac0f7adc0f465ef8ba9733e"
-    },
-    {
-        "path": "the-infinite-eye",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/the-infinite-eye/index.html",
-        "type": "file",
-        "md5": "230372c505633565f443a879a20e1455"
+        "md5": "3056df7966c54695f28b8b1fca8a2b9f"
     },
     {
         "path": "the-inward-mirror",
@@ -1295,7 +1322,7 @@
     {
         "path": "/the-inward-mirror/index.html",
         "type": "file",
-        "md5": "e1775643c02b5fdd929392e77d14f49c"
+        "md5": "50f7cab892ff3a910806c0efd5fd7889"
     },
     {
         "path": "the-liberation-of-desire",
@@ -1305,7 +1332,7 @@
     {
         "path": "/the-liberation-of-desire/index.html",
         "type": "file",
-        "md5": "74e5d90dea14bc66a75928a33a70ae70"
+        "md5": "fdec79ecfe45db07c197cafd78215f92"
     },
     {
         "path": "the-perennial-philosophy",
@@ -1315,7 +1342,7 @@
     {
         "path": "/the-perennial-philosophy/index.html",
         "type": "file",
-        "md5": "cb11c01b148d4d8d655b87aeb306432c"
+        "md5": "9816b7bb76f470e4fddea2e750c4100d"
     },
     {
         "path": "the-timeless-tattoo",
@@ -1325,7 +1352,7 @@
     {
         "path": "/the-timeless-tattoo/index.html",
         "type": "file",
-        "md5": "fcd244f2b66c60c8baf8dea6ee015ca5"
+        "md5": "6fd95d46f02086722e363400ba86a6d1"
     },
     {
         "path": "the-tree-tantra",
@@ -1335,7 +1362,7 @@
     {
         "path": "/the-tree-tantra/index.html",
         "type": "file",
-        "md5": "fd3ccc76cb027d4535b0c2bdcf570b1e"
+        "md5": "2fa2529c695564d9d1f4f3da259bd0aa"
     },
     {
         "path": "the-way",
@@ -1345,7 +1372,7 @@
     {
         "path": "/the-way/index.html",
         "type": "file",
-        "md5": "901bd766ca378ebcc01e79408001ae8e"
+        "md5": "683bc4fb3a9c04cfd7fb7b66fd2f4775"
     },
     {
         "path": "universal-tantra",
@@ -1355,7 +1382,7 @@
     {
         "path": "/universal-tantra/index.html",
         "type": "file",
-        "md5": "5c286f957afb3a93321916d575bc2337"
+        "md5": "40f5fc0c38c7c621790cbf4e71669bb6"
     },
     {
         "path": "white-trash",
@@ -1365,7 +1392,7 @@
     {
         "path": "/white-trash/index.html",
         "type": "file",
-        "md5": "fc784d496f29c8c5318d4276bf28e399"
+        "md5": "d52c996b95b419ea4aafaf2c71fd4788"
     },
     {
         "path": "why-is-this-evil-upon-us",
@@ -1375,7 +1402,7 @@
     {
         "path": "/why-is-this-evil-upon-us/index.html",
         "type": "file",
-        "md5": "3a081d7f4d508a4c8a0a3faab1e7c2ab"
+        "md5": "1cbffd184bf6669bd75c8e4950501da4"
     },
     {
         "path": "william-enckhausen",
@@ -1385,6 +1412,6 @@
     {
         "path": "/william-enckhausen/index.html",
         "type": "file",
-        "md5": "7e59468edc9215395273c807359b2a27"
+        "md5": "eff68864f4dd7187290b7b98cb994a3d"
     }
 ]
