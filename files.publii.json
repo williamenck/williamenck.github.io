@@ -22,7 +22,7 @@
     {
         "path": "/a-commentary-on-the-debate/index.html",
         "type": "file",
-        "md5": "99cae5215313056a6e3f880014e3daab"
+        "md5": "a96e9336fcba052565b933664c2671dd"
     },
     {
         "path": "a-frameless-photo",
@@ -257,12 +257,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "6e3135fca0d40a69f2fe0bdb489aa57c"
+        "md5": "a21f646cd9574fa2a45a702c55e35299"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "206b661db31779887ba266dbae09d38d"
+        "md5": "1e844213b26374997c63a5f18dea3065"
     },
     {
         "path": "form-and-formless",
@@ -1292,7 +1292,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c76b7dc7e6a5d6d2f070e10497d43370"
+        "md5": "84ab7e0bee7f9f3e6f031a40a0e72f9b"
     },
     {
         "path": "sitemap.xsl",
