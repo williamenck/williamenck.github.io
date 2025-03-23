@@ -15,6 +15,16 @@
         "md5": "c43c7eaa572743e6cd928d237a73bcce"
     },
     {
+        "path": "a-commentary-on-the-debate",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-commentary-on-the-debate/index.html",
+        "type": "file",
+        "md5": "99cae5215313056a6e3f880014e3daab"
+    },
+    {
         "path": "a-frameless-photo",
         "type": "directory",
         "md5": false
@@ -182,7 +192,7 @@
     {
         "path": "/authors/william-enckhausen/index.html",
         "type": "file",
-        "md5": "8cd2f868b985862a974573b76ba64980"
+        "md5": "9385c726f55d662c4276a520bfcea4e2"
     },
     {
         "path": "between-two-devils",
@@ -247,12 +257,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0e8c4e4260913310515e9427591facbe"
+        "md5": "6e3135fca0d40a69f2fe0bdb489aa57c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "d2a86f135ad6d2db7718840ddc6ef733"
+        "md5": "206b661db31779887ba266dbae09d38d"
     },
     {
         "path": "form-and-formless",
@@ -297,7 +307,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ffa59d630c57e49c20977d1be6f3f5c7"
+        "md5": "62d315128f2aec5ffca02daf5fbf58da"
     },
     {
         "path": "joy-and-trauma",
@@ -342,7 +352,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "5c7165b55b77696593efc48849d21c3a"
+        "md5": "46a36843414838e46b6816512ce67166"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -1040,6 +1050,51 @@
         "md5": "ecf08dc3bacfa7d82500c3e94ae4fc76"
     },
     {
+        "path": "media/posts/52",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/52/pantyhose.jpg",
+        "type": "file",
+        "md5": "2c62f25dac144e2c03ab5a5126d31386"
+    },
+    {
+        "path": "media/posts/52/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/52/responsive/pantyhose-2xl.jpg",
+        "type": "file",
+        "md5": "f0c1f7ebc976c29223a0b4a75cdc89bb"
+    },
+    {
+        "path": "/media/posts/52/responsive/pantyhose-lg.jpg",
+        "type": "file",
+        "md5": "1bdb034085a0bc56cbe1a9ebe22291a4"
+    },
+    {
+        "path": "/media/posts/52/responsive/pantyhose-md.jpg",
+        "type": "file",
+        "md5": "62d891fc3845146305944b0815d7676b"
+    },
+    {
+        "path": "/media/posts/52/responsive/pantyhose-sm.jpg",
+        "type": "file",
+        "md5": "33118c27dcc23a91b35791f5eab2da95"
+    },
+    {
+        "path": "/media/posts/52/responsive/pantyhose-xl.jpg",
+        "type": "file",
+        "md5": "f0c1f7ebc976c29223a0b4a75cdc89bb"
+    },
+    {
+        "path": "/media/posts/52/responsive/pantyhose-xs.jpg",
+        "type": "file",
+        "md5": "53dbab5dda4c0e9ad312e0770fdb7389"
+    },
+    {
         "path": "media/posts/6",
         "type": "directory",
         "md5": false
@@ -1192,7 +1247,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "048fc989592a45218e9e22353d6aaa0b"
+        "md5": "76a49fc73916ebc7e55460331b7b6df0"
     },
     {
         "path": "sitemap.xsl",
@@ -1237,7 +1292,7 @@
     {
         "path": "/the-debate/index.html",
         "type": "file",
-        "md5": "45d80382d039474804f8987c596edc1f"
+        "md5": "5bcbd842edd8623fcab22db83589ba09"
     },
     {
         "path": "the-divine-cactus",
@@ -1307,7 +1362,7 @@
     {
         "path": "/the-net/index.html",
         "type": "file",
-        "md5": "07a3b14c2f12767a724425ac41747eab"
+        "md5": "4170c024407dfb3a2f63f64c4bb762c6"
     },
     {
         "path": "the-perennial-philosophy",
