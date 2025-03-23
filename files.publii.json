@@ -182,7 +182,7 @@
     {
         "path": "/authors/william-enckhausen/index.html",
         "type": "file",
-        "md5": "f9c077b900f747d99dc685236c9b7036"
+        "md5": "8cd2f868b985862a974573b76ba64980"
     },
     {
         "path": "between-two-devils",
@@ -247,12 +247,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "d5eeb5a3e3e20bc3c61a654b1b98513d"
+        "md5": "79da4015e63c54d31a5e12a6f1d34f8b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "193755f610a03c482fb5399aa8b57bae"
+        "md5": "c095d029834db9571d6d7279673a23e2"
     },
     {
         "path": "form-and-formless",
@@ -297,7 +297,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "dace2c5d60309307716f4500800ee7b5"
+        "md5": "ffa59d630c57e49c20977d1be6f3f5c7"
     },
     {
         "path": "joy-and-trauma",
@@ -342,7 +342,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "6625304ad67aa1617dfe2aa51b48473d"
+        "md5": "5c7165b55b77696593efc48849d21c3a"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -1192,7 +1192,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "6ea66f649173f2b3dd2dd4487ac1ed69"
+        "md5": "80635f79b042d208ce1532eb2d88b752"
     },
     {
         "path": "sitemap.xsl",
@@ -1307,7 +1307,7 @@
     {
         "path": "/the-net/index.html",
         "type": "file",
-        "md5": "d5d9c2e5f9f18dd46b64a48cc42d6926"
+        "md5": "8b8141fafc40d8bd676de4d05ce72661"
     },
     {
         "path": "the-perennial-philosophy",
