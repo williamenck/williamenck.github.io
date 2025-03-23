@@ -222,7 +222,7 @@
     {
         "path": "/contactfollow/index.html",
         "type": "file",
-        "md5": "37e0ccf5a7d27b5bbdc77da296b6613f"
+        "md5": "2572b506de02a4f191cf62e6b975fea2"
     },
     {
         "path": "contemplations-on-a-quenacho",
@@ -247,12 +247,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "79da4015e63c54d31a5e12a6f1d34f8b"
+        "md5": "0e8c4e4260913310515e9427591facbe"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c095d029834db9571d6d7279673a23e2"
+        "md5": "d2a86f135ad6d2db7718840ddc6ef733"
     },
     {
         "path": "form-and-formless",
@@ -1192,7 +1192,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "80635f79b042d208ce1532eb2d88b752"
+        "md5": "048fc989592a45218e9e22353d6aaa0b"
     },
     {
         "path": "sitemap.xsl",
@@ -1307,7 +1307,7 @@
     {
         "path": "/the-net/index.html",
         "type": "file",
-        "md5": "8b8141fafc40d8bd676de4d05ce72661"
+        "md5": "07a3b14c2f12767a724425ac41747eab"
     },
     {
         "path": "the-perennial-philosophy",
