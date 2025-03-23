@@ -5,7 +5,11 @@
     "home_page_url": "https://williamenck.art",
     "feed_url": "https://williamenck.art/feed.json",
     "user_comment": "",
+<<<<<<< HEAD
     "icon": "https://williamenck.art/media/website/meditation.jpg",
+=======
+    "icon": "https://williamenck.art/media/website/20190828_101641003_HDR.jpg",
+>>>>>>> 871a2c4e997cc7c25688c4b9822f45961c0cb3c1
     "author": {
         "name": "William Enckhausen"
     },
