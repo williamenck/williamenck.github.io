@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://williamenck.is/sitemap.xml
