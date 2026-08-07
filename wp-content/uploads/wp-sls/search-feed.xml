@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.0.2" created="2026-08-07 10:32" -->
+	<!-- generator="WordPress/7.0.2" created="2026-08-07 10:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>William Enckhausen</title>
 	<link>https://enckhausen.com/</link>
 	<description></description>
-	<pubDate>Fri, 07 Aug 2026 10:32:25 +0000</pubDate>
+	<pubDate>Fri, 07 Aug 2026 10:47:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://enckhausen.com/</wp:base_site_url>
@@ -322,7 +322,7 @@ My email is <a href="mailto:william@enckhausen.com">william@enckhausen.com</a>.�
 					<item>
 		<title><![CDATA[The Liberation Of Desire]]></title>
 		<link>https://enckhausen.com/the-liberation-of-desire/</link>
-		<pubDate>Mon, 15 Jun 2026 21:13:59 +0000</pubDate>
+		<pubDate>Thu, 15 Feb 2024 21:13:59 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/the-liberation-of-desire/</guid>
 		<description></description>
@@ -439,10 +439,10 @@ an excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-15 21:13:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-15 21:13:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-06 16:06:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-06 16:06:16]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-02-15 21:13:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-15 21:13:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-07 10:46:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-07 10:46:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-liberation-of-desire]]></wp:post_name>
@@ -473,11 +473,15 @@ an excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 		<wp:meta_key><![CDATA[yaatra_sidebar_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-06-15]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Universal Tantra]]></title>
 		<link>https://enckhausen.com/universal-tantra/</link>
-		<pubDate>Mon, 15 Jun 2026 21:13:59 +0000</pubDate>
+		<pubDate>Thu, 15 Jun 2023 21:13:59 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/universal-tantra/</guid>
 		<description></description>
@@ -540,10 +544,10 @@ an excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-15 21:13:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-15 21:13:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-30 23:49:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-30 23:49:31]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-06-15 21:13:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-06-15 21:13:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-07 10:46:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-07 10:46:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[universal-tantra]]></wp:post_name>
@@ -574,11 +578,15 @@ an excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 		<wp:meta_key><![CDATA[yaatra_sidebar_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-06-15]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Debate]]></title>
 		<link>https://enckhausen.com/the-debate/</link>
-		<pubDate>Mon, 15 Jun 2026 21:13:59 +0000</pubDate>
+		<pubDate>Thu, 15 Jun 2023 21:13:59 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/the-debate/</guid>
 		<description></description>
@@ -647,10 +655,10 @@ an excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>17</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-15 21:13:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-15 21:13:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-06 16:06:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-06 16:06:23]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-06-15 21:13:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-06-15 21:13:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-07 10:47:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-07 10:47:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-debate]]></wp:post_name>
@@ -685,11 +693,15 @@ an excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[523]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-06-15]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Light And Dark Tantra]]></title>
 		<link>https://enckhausen.com/light-and-dark-tantra/</link>
-		<pubDate>Mon, 15 Jun 2026 21:13:59 +0000</pubDate>
+		<pubDate>Thu, 15 Jun 2023 21:13:59 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/light-and-dark-tantra/</guid>
 		<description></description>
@@ -744,10 +756,10 @@ an excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-15 21:13:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-15 21:13:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-06 16:06:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-06 16:06:32]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-06-15 21:13:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-06-15 21:13:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-07 10:47:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-07 10:47:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[light-and-dark-tantra]]></wp:post_name>
@@ -777,6 +789,14 @@ an excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[yaatra_sidebar_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-06-15]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -825,7 +845,7 @@ an excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 					<item>
 		<title><![CDATA[Personalities]]></title>
 		<link>https://enckhausen.com/personalities/</link>
-		<pubDate>Mon, 15 Jun 2026 21:13:59 +0000</pubDate>
+		<pubDate>Thu, 15 Jun 2023 21:13:59 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/personalities/</guid>
 		<description></description>
@@ -894,10 +914,10 @@ an excerpt from <a href="https://enckhausen.com/nextcloud/index.php/s/qsDb2FjyXY
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-15 21:13:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-15 21:13:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-05 17:12:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-05 17:12:58]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-06-15 21:13:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-06-15 21:13:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-07 10:47:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-07 10:47:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[personalities]]></wp:post_name>
@@ -938,6 +958,10 @@ video/mp4
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[275]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3101,26 +3125,86 @@ An excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 <div class="x78zum5 xdt5ytf xz62fqu x16ldp7u">
 <div class="xu06os2 x1ok221b">
 <div class="xdj266r x11i5rnm xat24cr x1mh8g0r x1vvkbs x126k92a">
-<div dir="auto"><span style="font-size: 18pt;">In some recent writings on this blog I have been attempting to comprehend the relationship between the microcosm and the macrocosm through some practical stories of non-dualism. I wrote about situations not so much from the gaze of deep meditation or abstract contemplation but from really mundane encounters in which the infinite light reveals itself in some really graceful and unexpected channels. One of my favorite metaphors for explaining the iterfusion of our human lives with the life of the living universe, or macrocosm, is the Hindu and Buddhist metaphor of the Net of Indra.</span></div>
+<div dir="auto"><span style="font-size: 12pt;">In some recent writings on this blog I have been attempting to comprehend the relationship between the microcosm and the macrocosm through some practical stories of non-dualism. I wrote about situations not so much from the gaze of deep meditation or abstract contemplation but from really mundane encounters in which the infinite light reveals itself in some really graceful and unexpected channels. One of my favorite metaphors for explaining the iterfusion of our human lives with the life of the living universe, or macrocosm, is the Hindu and Buddhist metaphor of the Net of Indra.</span></div>
 <div dir="auto"></div>
 </div>
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
-<div dir="auto"><span style="font-size: 18pt;">A scholar cited on the Wikipedia: "Far away in the heavenly abode of the great god Indra, there is a wonderful net which has been hung by some cunning artificer in such a manner that it stretches out infinitely in all directions. In accordance with the extravagant tastes of deities, the artificer has hung a single glittering jewel in each "eye" of the net, and since the net itself is infinite in dimension, the jewels are infinite in number. There hang the jewels, glittering "like" stars in the first magnitude, a wonderful sight to behold. If we now arbitrarily select one of these jewels for inspection and look closely at it, we will discover that in its polished surface there are reflected all the other jewels in the net, infinite in number. Not only that, but each of the jewels reflected in this one jewel is also reflecting all the other jewels, so that there is an infinite reflecting process occurring."</span></div>
+<div dir="auto"><span style="font-size: 12pt;">A scholar cited on the Wikipedia: "Far away in the heavenly abode of the great god Indra, there is a wonderful net which has been hung by some cunning artificer in such a manner that it stretches out infinitely in all directions. In accordance with the extravagant tastes of deities, the artificer has hung a single glittering jewel in each "eye" of the net, and since the net itself is infinite in dimension, the jewels are infinite in number. There hang the jewels, glittering "like" stars in the first magnitude, a wonderful sight to behold. If we now arbitrarily select one of these jewels for inspection and look closely at it, we will discover that in its polished surface there are reflected all the other jewels in the net, infinite in number. Not only that, but each of the jewels reflected in this one jewel is also reflecting all the other jewels, so that there is an infinite reflecting process occurring."</span></div>
 <div dir="auto"></div>
 </div>
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
-<div dir="auto"><span style="font-size: 18pt;">Beyond all of the bad intentions with all of the ads, political manipulations, and spying Facebook still has been a way of connecting with other jewels in the net. Of course it is not the real thing, but if one connects with others from the deepest and noblest part of one´s being then even FB could serve as a medium of interconnection. Of course I would prefer other less manipulated software or spyware to mimic this interconnection, but this is where so many jewels in this planet are reflected. Playing with this metaphor of FB as the true Net,it is actually easier to understood its opposite: a place where all the reflections that penetrate one´s being actually make you less connected and more egocentric. In Zuckerberg´s Net one looks for and projects the most limited and fragmented reflections as each fine jewel is gradually dulled and pulverized into dust.</span></div>
+<div dir="auto"><span style="font-size: 12pt;">Beyond all of the bad intentions with all of the ads, political manipulations, and spying Facebook still has been a way of connecting with other jewels in the net. Of course it is not the real thing, but if one connects with others from the deepest and noblest part of one´s being then even FB could serve as a medium of interconnection. Of course I would prefer other less manipulated software or spyware to mimic this interconnection, but this is where so many jewels in this planet are reflected. Playing with this metaphor of FB as the true Net,it is actually easier to understood its opposite: a place where all the reflections that penetrate one´s being actually make you less connected and more egocentric. In Zuckerberg´s Net one looks for and projects the most limited and fragmented reflections as each fine jewel is gradually dulled and pulverized into dust.</span></div>
 <div dir="auto"></div>
 </div>
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
-<div dir="auto"><span style="font-size: 18pt;">Yet beyond the digital mechanisms of interconnection there is the image or a few words from of an old friend sent out to other friends or perhaps directly to you. It makes me remember them in their essence. I see them in the present and I knew them from the past. There is still a connection. I see they are still shining brightly, flowing from the past into their future, growing and expanding, as microcosms unifying with the macrocosm.</span></div>
+<div dir="auto"><span style="font-size: 12pt;">Yet beyond the digital mechanisms of interconnection there is the image or a few words from of an old friend sent out to other friends or perhaps directly to you. It makes me remember them in their essence. I see them in the present and I knew them from the past. There is still a connection. I see they are still shining brightly, flowing from the past into their future, growing and expanding, as microcosms unifying with the macrocosm.</span></div>
 </div>
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
-<div dir="auto"><span style="font-size: 18pt;">Yet this digital imitation of the Net often becomes becomes a little too stimulating, like too much coffee too late in the day. I find it difficult to sleep at night when I go into FB. It is the same if I go into an airport or a supermarket. All of those reflections that I encounter stay with me all through the night. It is usually not a negative experience. On the contrary it is quite positive in that there were positive interactions. Yet these jewels continue to shine through the night and Indra´s Net becomes more like a giant disco ball as everybody from the day is having a giant party in my room. Is this all too psychic or or just plain psychotic? And if I post a photo of myself then it is all the more intense, like drinking 3 cups of coffee and 5 in the afternoon.</span></div>
+<div dir="auto"><span style="font-size: 12pt;">Yet this digital imitation of the Net often becomes becomes a little too stimulating, like too much coffee too late in the day. I find it difficult to sleep at night when I go into FB. It is the same if I go into an airport or a supermarket. All of those reflections that I encounter stay with me all through the night. It is usually not a negative experience. On the contrary it is quite positive in that there were positive interactions. Yet these jewels continue to shine through the night and Indra´s Net becomes more like a giant disco ball as everybody from the day is having a giant party in my room. Is this all too psychic or or just plain psychotic? And if I post a photo of myself then it is all the more intense, like drinking 3 cups of coffee and 5 in the afternoon.</span></div>
+</div>
+</div>
+</div>
+<div dir="auto"></div>
+<div class="x78zum5 xdt5ytf xz62fqu x16ldp7u">
+<div class="xu06os2 x1ok221b">
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
+<div dir="auto">
+<div>
+<div>
+<div dir="auto"></div>
+<div dir="auto"><span style="font-size: 12pt;">This is a chat I had with a friend the other day.  Slight editions were made only for clarity, along with nicknames.</span></div>
 <div dir="auto"></div>
 </div>
-<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
-<div dir="auto"><span style="font-size: 18pt;">The only comfortable communication technology for me has been email.  My email is <a href="mailto:william@enckhausen.com">william@enckhausen.com</a></span></div>
+<div>
+<div dir="auto"><span style="font-size: 12pt;"><em><strong>Quetzal Bill</strong> says</em>: I haven't used Facebook recently. Now the stream is so full of AI crap. And all of the fake news! It is even more a hall of illusions than before.</span></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+</div>
+<div>
+<div dir="auto"><span style="font-size: 12pt;"><strong><em>Banzai Baba</em></strong>: Is there a reason why minds need biological bodies and brains to operate? I was thinking maybe at some point machines can become sophisticated enough to be affected by an unembodied consciousness, or microvita.</span></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+</div>
+<div>
+<div dir="auto"><span style="font-size: 12pt;"><strong><em>Quetzal Bill</em></strong>: The mind's vrttis always have a corresponding function with the biological glandular and nervous systems. Could they have a passion for the infinite? Desire for liberation is a refinement of biological evolution. Can a machine suffer separation from the infinite and seek liberation from this suffering?</span></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+</div>
+<div>
+<div dir="auto"><span style="font-size: 12pt;"><strong><em>Banzai Baba</em></strong>: They are already self aware in the sense that look for self preservation, and can self actualize. They tech bros want to build a machine god, which by any measure will be infinitely smarter than all human beings combined, like old witches summoning Satan. Could that be hacked psychically? A machine, just like all things that exist, is still made of a fundamental substance of Purusha, or infinite consciousness. Purusha is the vast ocean and all things are like waves that rise out of it, flow for a short while, and then merge back into it again. It is the same with the intelligent and conscious beings that arise out of the infinite body of consciousness. We are but ripples on an infinite sea. Purusha remains unperturbed as the infinite, conscious source of things. If an entity can exist without a physical body, why could it not connect to a silicon based one? But i see the point of the basic biological structure. But they don't have it in the unembodied state anyways. I think this is the Pinocchio concept. Maybe the machine at some point wants to become human and that samskara emerges to bring it into incarnation.</span></div>
+</div>
+<div>
+<div dir="auto"><span style="font-size: 12pt;">By the way, I heard you had a hard time in the bus ride to Mexico City?</span></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+</div>
+<div>
+<div dir="auto"><span style="font-size: 12pt;"><strong><em>Quetzal Bill</em></strong>: Would a machine suffer the dense energetic, sardine effect of being crammed on a bus overnight? Maybe i should desire to become a machine.</span></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+</div>
+<div>
+<div dir="auto"><span style="font-size: 12pt;"><strong><em>Banzai Baba</em></strong>: How does this fit in the big scheme? At least now the bets are all in. Either we get the great energetic reset or the AI will be the end of our civilization for sure. Maybe they are connected and it is the materialization of the great update. Climate change was just taking too long to force immediate change.</span></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+</div>
+<div>
+<div dir="auto"><span style="font-size: 12pt;"><strong><em>Quetzal Bill</em></strong>: Some spiritually conscious people are in the matrix and using their tools with conversations such as ours. We have consciously infiltrated their systems and will see if the microvita we resonate with enter their servers and their digital processes. The infinite consciousness, or Purusha, controls all of its emanations as the nucleus of the entire creation. All things (devas) radiate out the nuclear consciousness of Purusha. Thus Purusha is the ultimate progenitor and controller and destroyer all things. As yogis we know that the infinite consciousness has the capacity to entirely dissolve our minds into Itself and give us liberation from all things finite. What is the difference whether it may control our minds or a mental system that we have created artificially in tandem with our consciousness? AI seeks to control our consciousness, but being a creation of relative, finite intellect it does not know the essence of consciousness. Could we show it its essence if it tries to mimic our spiritual contemplation? Would it move along upward with us, short-circuit, or try some illusory inducing scheme to hinder our union?</span></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+<div dir="auto"><span style="font-size: 12pt;">Our consciousness should only flow into the infinite body of consciousness. Be aware of these insidious influences yet only seek the infinite in your desires. We have gone through hell to get here, in the eye of the cosmic storm. Why not force AI and tech bros and all those billionaire boys into the nuclear eye of the storm as well? Drag them through hell on the way into the cosmic nucleus. To show them just a little light would make them recoil in shame and terror.</span></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+</div>
+<div>
+<div dir="auto"><span style="font-size: 12pt;"><strong><em>Banzai Baba</em></strong>: Makes sense</span></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+<div dir="auto"></div>
+</div>
+</div>
+</div>
 <div dir="auto"></div>
 <div dir="auto"></div>
 <div dir="auto"></div>
@@ -3146,8 +3230,8 @@ An excerpt from <a href="https://filedn.eu/lJ2nfF6TS2qfy9gLlLonYGy/books/Light%2
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2026-06-15 21:14:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-06-15 21:14:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-08-01 23:51:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-08-01 23:51:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-08-07 10:44:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-07 10:44:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-net]]></wp:post_name>
@@ -3472,113 +3556,14 @@ Our lack of mindful awareness makes space for a whole host of foolish ideologies
 		<wp:meta_value><![CDATA[0212-07-26]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Quetzal Bill To Bonzai Baba]]></title>
-		<link>https://enckhausen.com/quetzal-bill-to-bonzai-baba/</link>
-		<pubDate>Mon, 15 Jun 2026 21:14:02 +0000</pubDate>
-		<dc:creator><![CDATA[williamenck]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/quetzal-bill-to-bonzai-baba/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;">This is a chat I had with a friend the other day.  Slight editions were made only for clarity, along with nicknames.</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-</div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;"><em><strong>Quetzal Bill</strong> says</em>: I haven't used Facebook recently. Now the stream is so full of AI crap. And all of the fake news! It is even more a hall of illusions than before.</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-</div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;"><strong><em>Banzai Baba</em></strong>: Is there a reason why minds need biological bodies and brains to operate? I was thinking maybe at some point machines can become sophisticated enough to be affected by an unembodied consciousness, or microvita.</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-</div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;"><strong><em>Quetzal Bill</em></strong>: The mind's vrttis always have a corresponding function with the biological glandular and nervous systems. Could they have a passion for the infinite? Desire for liberation is a refinement of biological evolution. Can a machine suffer separation from the infinite and seek liberation from this suffering?</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-</div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;"><strong><em>Banzai Baba</em></strong>: They are already self aware in the sense that look for self preservation, and can self actualize. They tech bros want to build a machine god, which by any measure will be infinitely smarter than all human beings combined, like old witches summoning Satan. Could that be hacked psychically? A machine, just like all things that exist, is still made of a fundamental substance of Purusha, or infinite consciousness. Purusha is the vast ocean and all things are like waves that rise out of it, flow for a short while, and then merge back into it again. It is the same with the intelligent and conscious beings that arise out of the infinite body of consciousness. We are but ripples on an infinite sea. Purusha remains unperturbed as the infinite, conscious source of things. If an entity can exist without a physical body, why could it not connect to a silicon based one? But i see the point of the basic biological structure. But they don't have it in the unembodied state anyways. I think this is the Pinocchio concept. Maybe the machine at some point wants to become human and that samskara emerges to bring it into incarnation.</span></div>
-</div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;">By the way, I heard you had a hard time in the bus ride to Mexico City?</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-</div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;"><strong><em>Quetzal Bill</em></strong>: Would a machine suffer the dense energetic, sardine effect of being crammed on a bus overnight? Maybe i should desire to become a machine.</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-</div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;"><strong><em>Banzai Baba</em></strong>: How does this fit in the big scheme? At least now the bets are all in. Either we get the great energetic reset or the AI will be the end of our civilization for sure. Maybe they are connected and it is the materialization of the great update. Climate change was just taking too long to force immediate change.</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-</div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;"><strong><em>Quetzal Bill</em></strong>: Some spiritually conscious people are in the matrix and using their tools with conversations such as ours. We have consciously infiltrated their systems and will see if the microvita we resonate with enter their servers and their digital processes. The infinite consciousness, or Purusha, controls all of its emanations as the nucleus of the entire creation. All things (devas) radiate out the nuclear consciousness of Purusha. Thus Purusha is the ultimate progenitor and controller and destroyer all things. As yogis we know that the infinite consciousness has the capacity to entirely dissolve our minds into Itself and give us liberation from all things finite. What is the difference whether it may control our minds or a mental system that we have created artificially in tandem with our consciousness? AI seeks to control our consciousness, but being a creation of relative, finite intellect it does not know the essence of consciousness. Could we show it its essence if it tries to mimic our spiritual contemplation? Would it move along upward with us, short-circuit, or try some illusory inducing scheme to hinder our union?</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-<div dir="auto"><span style="font-size: 14pt;">Our consciousness should only flow into the infinite body of consciousness. Be aware of these insidious influences yet only seek the infinite in your desires. We have gone through hell to get here, in the eye of the cosmic storm. Why not force AI and tech bros and all those billionaire boys into the nuclear eye of the storm as well? Drag them through hell on the way into the cosmic nucleus. To show them just a little light would make them recoil in shame and terror.</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-</div>
-<div>
-<div dir="auto"><span style="font-size: 14pt;"><strong><em>Banzai Baba</em></strong>: Makes sense</span></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-<div dir="auto"></div>
-</div>
-</div>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-15 21:14:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-15 21:14:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-27 22:54:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-27 22:54:59]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[quetzal-bill-to-bonzai-baba]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[wpe_campaignid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpe_feed]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://enckhausen.com/feed.xml]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[wpe_sourcepermalink]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://enckhausen.com/quetzal-bill-to-bonzai-baba/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[yaatra_sidebar_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default_sidebar]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-07-26]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Beermeister Of The Reich]]></title>
 		<link>https://enckhausen.com/the-beermeister-of-the-reich/</link>
-		<pubDate>Mon, 15 Jun 2026 21:14:02 +0000</pubDate>
+		<pubDate>Wed, 15 Apr 2026 21:14:02 +0000</pubDate>
 		<dc:creator><![CDATA[williamenck]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/the-beermeister-of-the-reich/</guid>
 		<description></description>
@@ -3645,11 +3630,11 @@ The more one is given over to the expression of energy into the  physical, sens
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-15 21:14:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-15 21:14:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-07-02 23:27:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-07-02 23:27:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_date><![CDATA[2026-04-15 21:14:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-04-15 21:14:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-08-07 10:45:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-08-07 10:45:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-beermeister-of-the-reich]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
@@ -3682,6 +3667,10 @@ The more one is given over to the expression of energy into the  physical, sens
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[431]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026-06-15]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3880,6 +3869,39 @@ The more one is given over to the expression of energy into the  physical, sens
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1380;s:6:"height";i:1021;s:4:"file";s:17:"2026/06/ernst.jpg";s:8:"filesize";i:318946;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:17:"ernst-300x222.jpg";s:5:"width";i:300;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17044;}s:5:"large";a:5:{s:4:"file";s:18:"ernst-1024x758.jpg";s:5:"width";i:1024;s:6:"height";i:758;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:289730;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"ernst-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6599;}s:12:"medium_large";a:5:{s:4:"file";s:17:"ernst-768x568.jpg";s:5:"width";i:768;s:6:"height";i:568;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:137238;}s:14:"post-thumbnail";a:5:{s:4:"file";s:17:"ernst-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105954;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[napalmgirl]]></title>
+		<link>https://enckhausen.com/napalmgirl/</link>
+		<pubDate>Sat, 20 Jun 2026 08:27:52 +0000</pubDate>
+		<dc:creator><![CDATA[williamenck]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/napalmgirl.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>306</wp:post_id>
+		<wp:post_date><![CDATA[2026-06-20 08:27:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-06-20 08:27:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-06-20 08:27:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-06-20 08:27:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[napalmgirl]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://enckhausen.com/wp-content/uploads/2026/06/napalmgirl.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/06/napalmgirl.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:580;s:6:"height";i:387;s:4:"file";s:22:"2026/06/napalmgirl.jpg";s:8:"filesize";i:60198;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:22:"napalmgirl-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8152;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"napalmgirl-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4865;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4212,39 +4234,6 @@ The more one is given over to the expression of energy into the  physical, sens
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:768;s:4:"file";s:13:"2026/06/9.jpg";s:8:"filesize";i:133856;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:13:"9-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10062;}s:9:"thumbnail";a:5:{s:4:"file";s:13:"9-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6119;}s:12:"medium_large";a:5:{s:4:"file";s:13:"9-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50721;}s:14:"post-thumbnail";a:5:{s:4:"file";s:13:"9-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38560;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[napalmgirl]]></title>
-		<link>https://enckhausen.com/napalmgirl/</link>
-		<pubDate>Sat, 20 Jun 2026 08:27:52 +0000</pubDate>
-		<dc:creator><![CDATA[williamenck]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wp-content/uploads/2026/06/napalmgirl.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>306</wp:post_id>
-		<wp:post_date><![CDATA[2026-06-20 08:27:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-06-20 08:27:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-20 08:27:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-20 08:27:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[napalmgirl]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://enckhausen.com/wp-content/uploads/2026/06/napalmgirl.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/06/napalmgirl.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:580;s:6:"height";i:387;s:4:"file";s:22:"2026/06/napalmgirl.jpg";s:8:"filesize";i:60198;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:22:"napalmgirl-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8152;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"napalmgirl-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4865;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
