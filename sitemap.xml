@@ -38,7 +38,11 @@
 </url>
 <url>
 <loc>https://enckhausen.org/about/</loc>
-<lastmod>2026-09-19T16:44:10-06:00</lastmod>
+<lastmod>2026-09-07T15:22:34-06:00</lastmod>
+<image:image>
+<image:loc>https://enckhausen.org/media/posts/48/avatar-icon.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 <image:image>
 <image:loc>https://enckhausen.org/media/posts/48/quetzal.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -165,7 +169,7 @@
 </url>
 <url>
 <loc>https://enckhausen.org/contactfollow/</loc>
-<lastmod>2026-09-19T07:38:11-06:00</lastmod>
+<lastmod>2026-09-19T17:21:48-06:00</lastmod>
 </url>
 <url>
 <loc>https://enckhausen.org/cool-kulkan/</loc>
@@ -173,7 +177,7 @@
 </url>
 <url>
 <loc>https://enckhausen.org/der-biermiester-des-reiches/</loc>
-<lastmod>2026-08-11T06:10:34-06:00</lastmod>
+<lastmod>2026-09-13T13:01:12-06:00</lastmod>
 </url>
 <url>
 <loc>https://enckhausen.org/discernment-and-depression/</loc>
@@ -201,7 +205,7 @@
 </url>
 <url>
 <loc>https://enckhausen.org/from-quetzalcoatl-to-cassanova/</loc>
-<lastmod>2026-08-26T06:26:46-06:00</lastmod>
+<lastmod>2026-08-29T07:17:26-06:00</lastmod>
 <image:image>
 <image:loc>https://enckhausen.org/media/posts/43/9-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -217,13 +221,13 @@
 </url>
 <url>
 <loc>https://enckhausen.org/joy-and-trauma/</loc>
-<lastmod>2026-08-24T06:22:22-06:00</lastmod>
+<lastmod>2026-09-19T17:28:47-06:00</lastmod>
 <image:image>
-<image:loc>https://enckhausen.org/media/posts/41/flute.jpg</image:loc>
+<image:loc>https://enckhausen.org/media/posts/41/flute-3.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://enckhausen.org/media/posts/41/flute-2.jpg</image:loc>
+<image:loc>https://enckhausen.org/media/posts/41/flute-4.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -281,7 +285,11 @@
 </url>
 <url>
 <loc>https://enckhausen.org/the-debate/</loc>
-<lastmod>2026-08-28T10:42:03-06:00</lastmod>
+<lastmod>2026-08-31T03:41:54-06:00</lastmod>
+<image:image>
+<image:loc>https://enckhausen.org/media/posts/5/crazy.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://enckhausen.org/the-divine-cactus/</loc>
@@ -325,7 +333,7 @@
 </url>
 <url>
 <loc>https://enckhausen.org/the-net/</loc>
-<lastmod>2026-08-12T18:37:42-06:00</lastmod>
+<lastmod>2026-09-06T14:15:16-06:00</lastmod>
 </url>
 <url>
 <loc>https://enckhausen.org/the-perennial-philosophy/</loc>
@@ -333,7 +341,7 @@
 </url>
 <url>
 <loc>https://enckhausen.org/the-shadow-of-the-guru/</loc>
-<lastmod>2026-08-27T14:23:00-06:00</lastmod>
+<lastmod>2026-09-13T06:31:14-06:00</lastmod>
 </url>
 <url>
 <loc>https://enckhausen.org/the-timeless-tattoo/</loc>
@@ -373,7 +381,7 @@
 </url>
 <url>
 <loc>https://enckhausen.org/williamenckart-to-enckhausenorg/</loc>
-<lastmod>2026-08-28T08:39:22-06:00</lastmod>
+<lastmod>2026-09-19T17:28:15-06:00</lastmod>
 </url>
 <url>
 <loc>https://enckhausen.org/works/</loc>
